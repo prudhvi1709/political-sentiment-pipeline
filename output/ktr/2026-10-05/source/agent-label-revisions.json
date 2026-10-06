@@ -1,0 +1,1010 @@
+[
+  {
+    "id": 28,
+    "before": {
+      "id": 28,
+      "stance": "neutral",
+      "tone": "neutral",
+      "topic": "Personal praise and criticism",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Questions why KTR is trolled for comments about Rakul Preet, sees nothing controversial.",
+      "reason": "Defends KTR from trolling, but not explicitly supportive."
+    },
+    "after": {
+      "id": 28,
+      "stance": "supportive",
+      "tone": "neutral",
+      "topic": "Personal praise and criticism",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Questions why KTR is trolled for comments about Rakul Preet, sees nothing controversial.",
+      "reason": "Defends KTR from trolling and explicitly rejects the claimed controversy."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 37,
+    "before": {
+      "id": 37,
+      "stance": "critical",
+      "tone": "negative",
+      "topic": "Governance and development",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Criticizes BRS government and indirectly KTR over project spending and priorities.",
+      "reason": "Negative about BRS and KTR's governance; critical stance."
+    },
+    "after": {
+      "id": 37,
+      "stance": "unclear",
+      "tone": "negative",
+      "topic": "Governance and development",
+      "format": "opinion",
+      "clarity": "context_needed",
+      "summary": "Defends reuse of earlier project works for an elevated corridor, attacks a BRS-linked critic and disputes waste claims.",
+      "reason": "Attacks a BRS-linked interlocutor over project reuse; no explicit judgment of KTR."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 38,
+    "before": {
+      "id": 38,
+      "stance": "critical",
+      "tone": "negative",
+      "topic": "Governance and development",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Suggests Revanth should take classes from KTR, criticizes government for misusing funds.",
+      "reason": "Sarcastic, negative about KTR's governance; critical stance."
+    },
+    "after": {
+      "id": 38,
+      "stance": "supportive",
+      "tone": "negative",
+      "topic": "Governance and development",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Says Revanth should take administration classes from KTR rather than waste government money.",
+      "reason": "Recommends Revanth learn administration from KTR; criticism targets Revanth."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 42,
+    "before": {
+      "id": 42,
+      "stance": "supportive",
+      "tone": "positive",
+      "topic": "Governance and development",
+      "format": "reported_statement",
+      "clarity": "clear",
+      "summary": "Reports Sircilla people say KTR did not do less for them.",
+      "reason": "Expresses local support for KTR's work; supportive."
+    },
+    "after": {
+      "id": 42,
+      "stance": "neutral",
+      "tone": "positive",
+      "topic": "Governance and development",
+      "format": "reported_statement",
+      "clarity": "clear",
+      "summary": "Reports Sircilla people say KTR did not do less for them.",
+      "reason": "Attributes favorable words to Sircilla residents; no separate author judgment."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 44,
+    "before": {
+      "id": 44,
+      "stance": "neutral",
+      "tone": "mixed",
+      "topic": "Governance and development",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "KTR credited for Hyderabad, Rangareddy wins; some anti-incumbency due to governance, not lack of work.",
+      "reason": "Author notes both KTR's electoral success and some opposition due to governance, not direct criticism or praise."
+    },
+    "after": {
+      "id": 44,
+      "stance": "supportive",
+      "tone": "mixed",
+      "topic": "Governance and development",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Credits KTR for Hyderabad and Rangareddy wins, notes some anti-incumbency after ten years, and says lack of work was not the problem.",
+      "reason": "Credits KTR for electoral wins and defends his work despite broader anti-incumbency."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 45,
+    "before": {
+      "id": 45,
+      "stance": "critical",
+      "tone": "negative",
+      "topic": "Assets and allegations",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Alleges KTR falsely declared hotel ownership in affidavit while carrying bags like a thief.",
+      "reason": "Author mocks and accuses KTR of dishonesty regarding hotel assets."
+    },
+    "after": {
+      "id": 45,
+      "stance": "supportive",
+      "tone": "negative",
+      "topic": "Assets and allegations",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Claims KTR had disclosed hotel ownership in his affidavit when the rival was allegedly carrying cash bags.",
+      "reason": "Defends prior affidavit disclosure by KTR while accusing the addressee."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 47,
+    "before": {
+      "id": 47,
+      "stance": "neutral",
+      "tone": "neutral",
+      "topic": "Rivalry and political attacks",
+      "format": "reported_statement",
+      "clarity": "context_needed",
+      "summary": "Mentions Revanth Reddy meeting farmers in his home district; tags KTR.",
+      "reason": "No explicit stance toward KTR; mainly reports rival's activity."
+    },
+    "after": {
+      "id": 47,
+      "stance": "neutral",
+      "tone": "neutral",
+      "topic": "Welfare and public requests",
+      "format": "reported_statement",
+      "clarity": "context_needed",
+      "summary": "Reports KTR meeting farmers in Desitikyal village, described as part of Revanth's home district.",
+      "reason": "Reports KTR meeting farmers; no separate author judgment."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 52,
+    "before": {
+      "id": 52,
+      "stance": "critical",
+      "tone": "negative",
+      "topic": "Assets and allegations",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Sarcastically says KTR's biggest sin is not opening hotels in more places.",
+      "reason": "Sarcasm targets KTR's hotel ownership, implying wrongdoing."
+    },
+    "after": {
+      "id": 52,
+      "stance": "unclear",
+      "tone": "negative",
+      "topic": "Assets and allegations",
+      "format": "opinion",
+      "clarity": "context_needed",
+      "summary": "Jokes that KTR should have opened hotels in Warangal, Mulugu and Bhadrachalam.",
+      "reason": "Joke about where hotels were not opened; no unambiguous accusation or endorsement."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 61,
+    "before": {
+      "id": 61,
+      "stance": "critical",
+      "tone": "negative",
+      "topic": "Assets and allegations",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Accuses KTR of stealing 50,000 crores in three years and hiding assets.",
+      "reason": "Direct accusation of corruption against KTR."
+    },
+    "after": {
+      "id": 61,
+      "stance": "unclear",
+      "tone": "negative",
+      "topic": "Assets and allegations",
+      "format": "opinion",
+      "clarity": "context_needed",
+      "summary": "Alleges unnamed people looted Rs 50,000 crore in three years and threatens to expose where assets were hidden.",
+      "reason": "No named target in the text; cannot assign the corruption accusation to KTR."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 62,
+    "before": {
+      "id": 62,
+      "stance": "critical",
+      "tone": "negative",
+      "topic": "Assets and allegations",
+      "format": "request",
+      "clarity": "clear",
+      "summary": "Asks where KCR, KTR, and relatives bought houses and stored ill-gotten wealth.",
+      "reason": "Questions and implies wrongdoing by KTR and family."
+    },
+    "after": {
+      "id": 62,
+      "stance": "neutral",
+      "tone": "negative",
+      "topic": "Assets and allegations",
+      "format": "request",
+      "clarity": "clear",
+      "summary": "Tells Revanth, sarcastically, to discuss KCR and KTR relatives' purchases instead of governance.",
+      "reason": "Sarcastically criticizes Revanth's focus on family assets rather than governance."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 71,
+    "before": {
+      "id": 71,
+      "stance": "supportive",
+      "tone": "negative",
+      "topic": "Assets and allegations",
+      "format": "official_statement",
+      "clarity": "clear",
+      "summary": "BRS spokesperson defends KTR, calls Revanth's asset allegations a smear campaign and half-baked.",
+      "reason": "Direct defense of KTR against allegations, supportive stance."
+    },
+    "after": {
+      "id": 71,
+      "stance": "neutral",
+      "tone": "negative",
+      "topic": "Assets and allegations",
+      "format": "official_statement",
+      "clarity": "clear",
+      "summary": "BRS spokesperson defends KTR, calls Revanth's asset allegations a smear campaign and half-baked.",
+      "reason": "IANS quotes a spokesperson defending KTR; author stance is not expressed."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 81,
+    "before": {
+      "id": 81,
+      "stance": "supportive",
+      "tone": "positive",
+      "topic": "Rivalry and political attacks",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Author praises KTR for defeating Congress, calling him 'mass'.",
+      "reason": "Expresses support for KTR's political strength."
+    },
+    "after": {
+      "id": 81,
+      "stance": "critical",
+      "tone": "negative",
+      "topic": "Rivalry and political attacks",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Mocks KTR for being beaten by a Congress party described as previously third-placed in the city.",
+      "reason": "Sarcastically mocks being beaten by Congress, not a KTR victory."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 87,
+    "before": {
+      "id": 87,
+      "stance": "critical",
+      "tone": "negative",
+      "topic": "Assets and allegations",
+      "format": "reported_statement",
+      "clarity": "clear",
+      "summary": "Congress leader questions KTR's claim of earning enough in US to own three hotels, calls him not credible.",
+      "reason": "Reports direct criticism of KTR's credibility and asset claims."
+    },
+    "after": {
+      "id": 87,
+      "stance": "neutral",
+      "tone": "negative",
+      "topic": "Assets and allegations",
+      "format": "reported_statement",
+      "clarity": "clear",
+      "summary": "Congress leader questions KTR's claim of earning enough in US to own three hotels, calls him not credible.",
+      "reason": "ANI reports a Congress leader's accusations; no separate author endorsement."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 89,
+    "before": {
+      "id": 89,
+      "stance": "neutral",
+      "tone": "mixed",
+      "topic": "Party leadership",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Says no one can defeat KCR in Telangana; KTR only inherits KCR's reputation.",
+      "reason": "Focuses on KCR's strength, not directly supportive or critical of KTR."
+    },
+    "after": {
+      "id": 89,
+      "stance": "critical",
+      "tone": "negative",
+      "topic": "Party leadership",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Praises KCR's Telangana stature but claims KTR only damaged his father's reputation.",
+      "reason": "Explicitly says KTR brought his father a bad name."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 92,
+    "before": {
+      "id": 92,
+      "stance": "neutral",
+      "tone": "positive",
+      "topic": "Other or unclear",
+      "format": "official_statement",
+      "clarity": "clear",
+      "summary": "Congratulates space-tech startups, notes Telangana's support for innovation.",
+      "reason": "KTRBRS celebrates startups, not self-praise or political content."
+    },
+    "after": {
+      "id": 92,
+      "stance": "neutral",
+      "tone": "positive",
+      "topic": "Governance and development",
+      "format": "official_statement",
+      "clarity": "clear",
+      "summary": "Congratulates space-tech startups, notes Telangana's support for innovation.",
+      "reason": "Celebrates Telangana startup ecosystem and institutions; no judgment of KTR himself."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 108,
+    "before": {
+      "id": 108,
+      "stance": "unclear",
+      "tone": "unclear",
+      "topic": "Other or unclear",
+      "format": "unclear",
+      "clarity": "context_needed",
+      "summary": "Asks if others are experiencing power cuts.",
+      "reason": "No clear connection to KTR or stance."
+    },
+    "after": {
+      "id": 108,
+      "stance": "neutral",
+      "tone": "neutral",
+      "topic": "Governance and development",
+      "format": "request",
+      "clarity": "context_needed",
+      "summary": "Asks whether others are experiencing power cuts.",
+      "reason": "KTR_News asks about electricity supply; no judgment of KTR."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 109,
+    "before": {
+      "id": 109,
+      "stance": "supportive",
+      "tone": "positive",
+      "topic": "Governance and development",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Affirms KTR's statements as true, agrees schools in his constituency prove it.",
+      "reason": "Explicitly supports and agrees with KTR's claims."
+    },
+    "after": {
+      "id": 109,
+      "stance": "unclear",
+      "tone": "unclear",
+      "topic": "Governance and development",
+      "format": "opinion",
+      "clarity": "context_needed",
+      "summary": "Affirms KTR's statements as true, agrees schools in his constituency prove it.",
+      "reason": "Agreement wording with expose framing may be sarcastic; supporting media is absent."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 113,
+    "before": {
+      "id": 113,
+      "stance": "critical",
+      "tone": "negative",
+      "topic": "Personal praise and criticism",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Criticizes Congress for focusing on KTR instead of Gandhi Jayanti.",
+      "reason": "Author mocks those praising KTR, showing critical stance."
+    },
+    "after": {
+      "id": 113,
+      "stance": "neutral",
+      "tone": "negative",
+      "topic": "Rivalry and political attacks",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Mocks Congress for focusing on KTR rather than Gandhi Jayanti.",
+      "reason": "Abuse targets Congress for focusing on KTR, without a judgment of KTR."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 133,
+    "before": {
+      "id": 133,
+      "stance": "critical",
+      "tone": "negative",
+      "topic": "Party leadership",
+      "format": "reported_statement",
+      "clarity": "clear",
+      "summary": "Reports Kavitha's strong criticism and warnings to KTR, accusing him of harming BRS and blaming KCR.",
+      "reason": "Author highlights Kavitha's attacks on KTR, critical stance."
+    },
+    "after": {
+      "id": 133,
+      "stance": "neutral",
+      "tone": "negative",
+      "topic": "Party leadership",
+      "format": "reported_statement",
+      "clarity": "clear",
+      "summary": "Reports Kavitha's strong criticism and warnings to KTR, accusing him of harming BRS and blaming KCR.",
+      "reason": "RTV reports Kavitha's criticism; the author does not independently endorse it."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 141,
+    "before": {
+      "id": 141,
+      "stance": "supportive",
+      "tone": "positive",
+      "topic": "Historical recollections",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Praises KTR for elevating leaders who once controlled the Assembly.",
+      "reason": "Author expresses admiration for KTR's achievements."
+    },
+    "after": {
+      "id": 141,
+      "stance": "unclear",
+      "tone": "unclear",
+      "topic": "Historical recollections",
+      "format": "opinion",
+      "clarity": "context_needed",
+      "summary": "Comments on once-dominant Assembly leaders being brought to an altered situation; tags KCR, KTR and Harish Rao.",
+      "reason": "The addressee and Assembly incident are unspecified; cannot assign praise to KTR."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 144,
+    "before": {
+      "id": 144,
+      "stance": "critical",
+      "tone": "negative",
+      "topic": "Governance and development",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Mocks KTR's lack of land acquisition for projects at various locations.",
+      "reason": "Sarcastic criticism of KTR's governance."
+    },
+    "after": {
+      "id": 144,
+      "stance": "supportive",
+      "tone": "positive",
+      "topic": "Governance and development",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Credits KTR in opposition with preventing even an acre being taken at HCU, Urdu University, Tesseract and Musi-edge locations.",
+      "reason": "Credits KTR with preventing land from being taken while in opposition."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 154,
+    "before": {
+      "id": 154,
+      "stance": "critical",
+      "tone": "negative",
+      "topic": "Assets and allegations",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Questions how KTR gave 185 acres to a new company with little capital.",
+      "reason": "Author challenges KTR's decision, implying wrongdoing."
+    },
+    "after": {
+      "id": 154,
+      "stance": "supportive",
+      "tone": "negative",
+      "topic": "Assets and allegations",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Says the addressee has no standing to criticize KTR and asks about allocating government land to a newly registered company.",
+      "reason": "Defends KTR and questions the rival's land allocation, not KTR's."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 165,
+    "before": {
+      "id": 165,
+      "stance": "neutral",
+      "tone": "neutral",
+      "topic": "Assets and allegations",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Explains business ownership is possible before KTR became MLA.",
+      "reason": "Neutral explanation, not supporting or attacking KTR."
+    },
+    "after": {
+      "id": 165,
+      "stance": "supportive",
+      "tone": "neutral",
+      "topic": "Assets and allegations",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Explains business ownership is possible before KTR became MLA.",
+      "reason": "Counters suspicion about KTR's hotel financing with legitimate business explanations."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 166,
+    "before": {
+      "id": 166,
+      "stance": "neutral",
+      "tone": "negative",
+      "topic": "Rivalry and political attacks",
+      "format": "reported_statement",
+      "clarity": "clear",
+      "summary": "Reports KTR's criticism of Congress and BJP for divisive politics.",
+      "reason": "Neutral reporting of KTR's statements; negative tone."
+    },
+    "after": {
+      "id": 166,
+      "stance": "critical",
+      "tone": "negative",
+      "topic": "Rivalry and political attacks",
+      "format": "reported_statement",
+      "clarity": "clear",
+      "summary": "Quotes KTR criticizing divisive politics, then asks whether the issues he dismissed are not real issues for him.",
+      "reason": "The author adds a skeptical question about KTR after quoting his remarks."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 169,
+    "before": {
+      "id": 169,
+      "stance": "neutral",
+      "tone": "positive",
+      "topic": "Personal praise and criticism",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Remarks that KTR is very lucky.",
+      "reason": "No clear support or criticism, just a positive remark."
+    },
+    "after": {
+      "id": 169,
+      "stance": "unclear",
+      "tone": "unclear",
+      "topic": "Personal praise and criticism",
+      "format": "opinion",
+      "clarity": "context_needed",
+      "summary": "Remarks that KTR is very lucky.",
+      "reason": "Calling KTR lucky lacks enough context to distinguish admiration from sarcasm."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 180,
+    "before": {
+      "id": 180,
+      "stance": "neutral",
+      "tone": "neutral",
+      "topic": "Assets and allegations",
+      "format": "reported_statement",
+      "clarity": "clear",
+      "summary": "Notes KTR never admitted owning three hotels until Revanth Reddy mentioned it.",
+      "reason": "No support or criticism, just a factual observation."
+    },
+    "after": {
+      "id": 180,
+      "stance": "critical",
+      "tone": "negative",
+      "topic": "Assets and allegations",
+      "format": "reported_statement",
+      "clarity": "clear",
+      "summary": "Claims KTR did not say he owned three hotels until Revanth mentioned them.",
+      "reason": "Implies KTR withheld hotel disclosure until the rival mentioned it."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 183,
+    "before": {
+      "id": 183,
+      "stance": "critical",
+      "tone": "negative",
+      "topic": "Personal praise and criticism",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Mocks someone for talking about KTR, implies opportunism.",
+      "reason": "Author uses KTR as a reference for criticism."
+    },
+    "after": {
+      "id": 183,
+      "stance": "supportive",
+      "tone": "negative",
+      "topic": "Personal praise and criticism",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Attacks someone for speaking against KTR and warns of consequences if BRS returns.",
+      "reason": "Threatens an interlocutor for criticizing KTR; criticism does not target KTR."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 211,
+    "before": {
+      "id": 211,
+      "stance": "critical",
+      "tone": "negative",
+      "topic": "Assets and allegations",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Suggests checking KTR's assets, accuses others of running agendas.",
+      "reason": "Implies suspicion about KTR's assets, critical."
+    },
+    "after": {
+      "id": 211,
+      "stance": "neutral",
+      "tone": "negative",
+      "topic": "Assets and allegations",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Asks the addressee to examine both KTR's and the current CM's assets rather than run selective agendas.",
+      "reason": "Requests checking both politicians and criticizes selective agendas; no specific KTR judgment."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 214,
+    "before": {
+      "id": 214,
+      "stance": "mixed",
+      "tone": "mixed",
+      "topic": "Public events and festivals",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Describes Siricilla meeting as flop but says KTR's stature increased.",
+      "reason": "Both criticism and praise for KTR in event context."
+    },
+    "after": {
+      "id": 214,
+      "stance": "supportive",
+      "tone": "mixed",
+      "topic": "Rivalry and political attacks",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Describes Siricilla meeting as flop but says KTR's stature increased.",
+      "reason": "Calls Congress rally a failure and says it increased KTR's stature; criticism is of Congress."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 235,
+    "before": {
+      "id": 235,
+      "stance": "unclear",
+      "tone": "positive",
+      "topic": "Other or unclear",
+      "format": "opinion",
+      "clarity": "context_needed",
+      "summary": "Greets KTR in Japanese, no clear political content.",
+      "reason": "Greeting only, unclear stance or topic relevance."
+    },
+    "after": {
+      "id": 235,
+      "stance": "unrelated",
+      "tone": "positive",
+      "topic": "Other or unclear",
+      "format": "opinion",
+      "clarity": "context_needed",
+      "summary": "Greets KTR in Japanese, no clear political content.",
+      "reason": "Part of Japanese-language greetings to another KTR referent, without Telangana connection."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 236,
+    "before": {
+      "id": 236,
+      "stance": "critical",
+      "tone": "negative",
+      "topic": "Assets and allegations",
+      "format": "reported_statement",
+      "clarity": "clear",
+      "summary": "Revanth Reddy claims KCR & KTR family turned votes into wealth.",
+      "reason": "Reports rival's accusation, negative tone, neutral author stance."
+    },
+    "after": {
+      "id": 236,
+      "stance": "neutral",
+      "tone": "negative",
+      "topic": "Assets and allegations",
+      "format": "reported_statement",
+      "clarity": "clear",
+      "summary": "Revanth Reddy claims KCR & KTR family turned votes into wealth.",
+      "reason": "Attributes the accusation to Revanth at Sircilla; no separate author judgment."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 251,
+    "before": {
+      "id": 251,
+      "stance": "critical",
+      "tone": "negative",
+      "topic": "Assets and allegations",
+      "format": "reported_statement",
+      "clarity": "clear",
+      "summary": "Reports Mahesh Kumar Goud's claim that KTR's assets increased with each election.",
+      "reason": "Highlights allegations of asset growth, negative toward KTR."
+    },
+    "after": {
+      "id": 251,
+      "stance": "neutral",
+      "tone": "negative",
+      "topic": "Assets and allegations",
+      "format": "reported_statement",
+      "clarity": "clear",
+      "summary": "Reports Mahesh Kumar Goud's claim that KTR's assets increased with each election.",
+      "reason": "Quotes Mahesh Kumar Goud's asset-growth accusation without separate author commentary."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 261,
+    "before": {
+      "id": 261,
+      "stance": "supportive",
+      "tone": "positive",
+      "topic": "Governance and development",
+      "format": "reported_statement",
+      "clarity": "clear",
+      "summary": "Harish Rao credits KTR for Sircilla's development, urges Revanth to learn from him.",
+      "reason": "Attributes positive development to KTR, supportive stance."
+    },
+    "after": {
+      "id": 261,
+      "stance": "neutral",
+      "tone": "positive",
+      "topic": "Governance and development",
+      "format": "reported_statement",
+      "clarity": "clear",
+      "summary": "Harish Rao credits KTR for Sircilla's development, urges Revanth to learn from him.",
+      "reason": "Attributes the praise to Harish Rao; no separate author judgment."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 268,
+    "before": {
+      "id": 268,
+      "stance": "critical",
+      "tone": "negative",
+      "topic": "Assets and allegations",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Questions if 50,000 crores were looted in 3 years.",
+      "reason": "Implicates KTR in corruption, critical stance."
+    },
+    "after": {
+      "id": 268,
+      "stance": "unclear",
+      "tone": "negative",
+      "topic": "Assets and allegations",
+      "format": "opinion",
+      "clarity": "context_needed",
+      "summary": "Questions if 50,000 crores were looted in 3 years.",
+      "reason": "Unnamed target of three-year looting allegation; KTR connection is not explicit."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 278,
+    "before": {
+      "id": 278,
+      "stance": "supportive",
+      "tone": "positive",
+      "topic": "Welfare and public requests",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "KTR promises to help with land documents for a local meeting.",
+      "reason": "Praises KTR's commitment to help."
+    },
+    "after": {
+      "id": 278,
+      "stance": "neutral",
+      "tone": "positive",
+      "topic": "Welfare and public requests",
+      "format": "reported_statement",
+      "clarity": "clear",
+      "summary": "KTR promises to help with land documents for a local meeting.",
+      "reason": "Reports a land-title assistance promise attributed to KTR; no independent author praise."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 280,
+    "before": {
+      "id": 280,
+      "stance": "supportive",
+      "tone": "positive",
+      "topic": "Welfare and public requests",
+      "format": "reported_statement",
+      "clarity": "clear",
+      "summary": "Describes KTR's prompt help to bring a stranded woman back to India.",
+      "reason": "Highlights KTR's positive intervention."
+    },
+    "after": {
+      "id": 280,
+      "stance": "supportive",
+      "tone": "positive",
+      "topic": "Welfare and public requests",
+      "format": "reported_statement",
+      "clarity": "clear",
+      "summary": "Claims a Kodangal family approached KTR over a mother stranded in Muscat; describes his instructions and promise to arrange her return.",
+      "reason": "Favorable contrast with the CM and praise of KTR's response; return is promised, not established."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 282,
+    "before": {
+      "id": 282,
+      "stance": "critical",
+      "tone": "negative",
+      "topic": "Personal praise and criticism",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Mocks Telangana people if KCR or KTR said similar words.",
+      "reason": "Sarcastically criticizes KTR and KCR."
+    },
+    "after": {
+      "id": 282,
+      "stance": "neutral",
+      "tone": "negative",
+      "topic": "Personal praise and criticism",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Claims Telangana critics would react more strongly if KCR or KTR made the same statement.",
+      "reason": "Criticizes a perceived double standard in reactions, not KTR himself."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 309,
+    "before": {
+      "id": 309,
+      "stance": "critical",
+      "tone": "negative",
+      "topic": "Assets and allegations",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Questions why KTR responds to some allegations but not to Krishank's press meet.",
+      "reason": "Author criticizes KTR for selective responses."
+    },
+    "after": {
+      "id": 309,
+      "stance": "supportive",
+      "tone": "negative",
+      "topic": "Assets and allegations",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Says KTR and other BRS leaders responded to allegations, but asks why the CM has not answered Krishank's claims.",
+      "reason": "Contrasts KTR responding to allegations with the CM not responding; defense favors KTR."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 321,
+    "before": {
+      "id": 321,
+      "stance": "critical",
+      "tone": "negative",
+      "topic": "Governance and development",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Claims KCR and KTR discussed falsely on TV; mocks failures in water, power, and urea supply.",
+      "reason": "Criticizes KTR's governance, negative stance."
+    },
+    "after": {
+      "id": 321,
+      "stance": "supportive",
+      "tone": "negative",
+      "topic": "Governance and development",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Calls TV criticism of KCR and KTR false, and says callers raised water, electricity and urea-supply problems instead.",
+      "reason": "Calls criticism of KCR/KTR fake and points to current supply grievances."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 328,
+    "before": {
+      "id": 328,
+      "stance": "supportive",
+      "tone": "positive",
+      "topic": "Historical recollections",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Claims KTR developed Sircilla and should be repeatedly elected.",
+      "reason": "Direct praise for KTR's development, supportive."
+    },
+    "after": {
+      "id": 328,
+      "stance": "supportive",
+      "tone": "positive",
+      "topic": "Governance and development",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Claims KTR developed Sircilla and should be repeatedly elected.",
+      "reason": "Explicitly praises development and calls for re-electing KTR; not a historical recollection."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 339,
+    "before": {
+      "id": 339,
+      "stance": "critical",
+      "tone": "negative",
+      "topic": "Party leadership",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Author mocks KTR's leadership, claiming he rendered his party ineffective.",
+      "reason": "Direct criticism of KTR's role as party leader."
+    },
+    "after": {
+      "id": 339,
+      "stance": "neutral",
+      "tone": "negative",
+      "topic": "Party leadership",
+      "format": "reported_statement",
+      "clarity": "clear",
+      "summary": "Author mocks KTR's leadership, claiming he rendered his party ineffective.",
+      "reason": "Attributes party-leadership mockery to Ram Mohan; no independent author statement."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  },
+  {
+    "id": 345,
+    "before": {
+      "id": 345,
+      "stance": "critical",
+      "tone": "positive",
+      "topic": "Rivalry and political attacks",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Author praises Revanth Reddy for rallying in KTR's stronghold, implying KTR's weakness.",
+      "reason": "Supports rival, implies KTR's loss of influence."
+    },
+    "after": {
+      "id": 345,
+      "stance": "neutral",
+      "tone": "positive",
+      "topic": "Rivalry and political attacks",
+      "format": "opinion",
+      "clarity": "clear",
+      "summary": "Author praises Revanth Reddy for rallying in KTR's stronghold, implying KTR's weakness.",
+      "reason": "Praises Revanth's rally and describes its opposition impact without a direct KTR appraisal."
+    },
+    "basis": "Agent comparison with supplied original text and attribution rubric"
+  }
+]

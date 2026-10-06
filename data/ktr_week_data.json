@@ -1,0 +1,104 @@
+{
+  "person": {
+    "name": "K. T. Rama Rao",
+    "handle": "@KTRBRS",
+    "party": "BRS",
+    "role": "BRS Working President | MLA, Sircilla",
+    "reconstructed": false
+  },
+  "week": {"start": "2026-06-16", "end": "2026-07-13", "label": "16 June - 13 July 2026"},
+  "branding": {"accent": "#E6007E", "accent2": "#F5A623", "dark": "#14111C", "ink": "#1A1A1A"},
+  "x_data": {
+    "official_posts": 22,
+    "sample_size": 670,
+    "sentiment": {"positive": 264, "negative": 205, "neutral": 201},
+    "daily": [],
+    "issues": [
+      {"label": "Kaleshwaram 'economic terrorist' counter", "count": 10},
+      {"label": "Corruption-under-BRS jibes", "count": 7},
+      {"label": "Barrage failure blame", "count": 6},
+      {"label": "Dynasty / KCR-legacy criticism", "count": 4}
+    ],
+    "issue_notes": [
+      "The govt's 'economic terrorist' / Rs 1.5L cr Kaleshwaram-failure charge is the main anti-BRS line.",
+      "Counter-attacks recycle corruption-under-BRS and barrage-maintenance arguments.",
+      "Off-handle name-variant chatter stayed pro-BRS this window - unusual for KTR.",
+      "His base was clearly mobilised by the farmers-water agitation."
+    ],
+    "top_posts": [
+      {"text": "My son Himanshu suffered a minor sports injury; he should be back to normal in a few days. Thank you for the concern.", "views": 860000},
+      {"text": "You say you'll sprinkle our blood? Bloodthirsty demon! Take our blood - but give the farmers water.", "views": 132000},
+      {"text": "It feels like you were a toddler holding my hand just yesterday - happy 21st, Himanshu.", "views": 118000},
+      {"text": "When the World Bank validates Telangana's economic transformation, it is global recognition of KCR Garu's vision.", "views": 98000},
+      {"text": "Had the pleasure of inaugurating the India facility of Kandou AI in Hyderabad.", "views": 65000}
+    ]
+  },
+  "news_data": {
+    "article_count": 26,
+    "sentiment": {"positive": 12, "negative": 6, "neutral": 8},
+    "topics": [
+      {"label": "Kaleshwaram / farmers water", "count": 12},
+      {"label": "Party / KCR vision", "count": 6},
+      {"label": "Law & order / POCSO", "count": 4},
+      {"label": "Personal / tributes", "count": 4}
+    ],
+    "topic_notes": [
+      "Kaleshwaram and the farmers-water agitation dominated his coverage.",
+      "The World Bank tag reopened the KCR-legacy credit war on favourable terms.",
+      "His Shabad law-and-order attack kept pressure on the government.",
+      "Personal posts (son's injury, S. Janaki tribute) drew the highest reach."
+    ],
+    "publications": [
+      {"label": "Eenadu", "count": 6},
+      {"label": "Sakshi", "count": 5},
+      {"label": "Telangana Today", "count": 5},
+      {"label": "Siasat", "count": 4},
+      {"label": "ANI", "count": 3},
+      {"label": "ThePrint", "count": 3}
+    ],
+    "languages": {"English": 14, "Telugu": 12},
+    "notes": [
+      "The fortnight flipped KTR positive: the Kaleshwaram agitation handed BRS the moral high ground.",
+      "Revanth's 'blood for farmers' remark was a gift to the opposition narrative.",
+      "The World Bank validation let BRS relitigate KCR's economic legacy.",
+      "Main vulnerability remains the govt's Rs 1.5L cr Kaleshwaram-failure charge."
+    ]
+  },
+  "telugu_press": {
+    "window": "16 Jun - 13 Jul 2026",
+    "eenadu": {
+      "count": 16,
+      "lean": "Neutral / farmer-issue led",
+      "headlines": [
+        "KTR reaches Kannepalli, demands Kaleshwaram pumping to save crops",
+        "BRS threatens 50,000-farmer siege of pump house",
+        "World Bank tag is recognition of KCR's vision: KTR",
+        "KTR slams govt over Shabad POCSO bail lapse"
+      ]
+    },
+    "sakshi": {
+      "count": 13,
+      "lean": "Mixed / govt-counter visible",
+      "headlines": [
+        "'Bloodthirsty demon': KTR hits back at Revanth over farmers remark",
+        "KTR blames Congress for impending water crisis",
+        "Govt calls BRS leaders 'economic terrorists' over Kaleshwaram",
+        "KTR claims Revanth avoids Kannepalli to deny KCR credit"
+      ]
+    }
+  },
+  "stories": [
+    {"title": "Kaleshwaram farmers-water agitation", "detail": "KTR reaches Kannepalli, demands immediate pumping and threatens a 50,000-farmer siege of the pump house."},
+    {"title": "'Bloodthirsty demon' clash", "detail": "Hits back at Revanth's 'blood for farmers' remark; his reply post crosses 132K views."},
+    {"title": "World Bank vindication", "detail": "Frames Telangana's upper-middle-income tag as global recognition of KCR's vision."},
+    {"title": "Kandou AI facility", "detail": "Inaugurates the India centre of a US chip-design firm in Hyderabad, touting his investment record."},
+    {"title": "Shabad law-and-order attack", "detail": "Blames the government over a POCSO accused's bail after six deaths in the Shabad incident."}
+  ],
+  "insights": [
+    "The fortnight flipped KTR positive: the Kaleshwaram farmers-water agitation and Revanth's 'blood' remark handed BRS the moral high ground and mobilised the base.",
+    "His highest-reach content was personal (son's injury at ~860K views) and the 'bloodthirsty demon' retort (132K), not policy.",
+    "The World Bank tag let BRS relitigate the KCR-legacy credit war on favourable terms.",
+    "Main vulnerability: the govt's 'economic terrorist' / Rs 1.5L cr Kaleshwaram-failure charge, which BRS must rebut.",
+    "Off-handle name-variant chatter stayed pro-BRS this window, unusual for KTR."
+  ]
+}

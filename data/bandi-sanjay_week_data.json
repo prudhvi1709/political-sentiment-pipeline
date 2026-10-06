@@ -1,0 +1,102 @@
+{
+  "person": {
+    "name": "Bandi Sanjay Kumar",
+    "handle": "@bandisanjay_bjp",
+    "party": "BJP",
+    "role": "Union Minister of State for Home Affairs | MP, Karimnagar"
+  },
+  "week": {"start": "2026-06-16", "end": "2026-07-13", "label": "16 June - 13 July 2026"},
+  "branding": {"accent": "#F47216", "accent2": "#138808", "dark": "#1A1206", "ink": "#1A1A1A"},
+  "x_data": {
+    "official_posts": 20,
+    "sample_size": 199,
+    "sentiment": {"positive": 74, "negative": 64, "neutral": 61},
+    "daily": [],
+    "issues": [
+      {"label": "Residual POCSO / audio-leak", "count": 7},
+      {"label": "Anti-BJP / communal jibes", "count": 5},
+      {"label": "Local (Warangal/Karimnagar) gripes", "count": 3},
+      {"label": "Absence / ineffectiveness", "count": 2}
+    ],
+    "issue_notes": [
+      "The residual POCSO thread faded but did not disappear - a latent risk.",
+      "Supporters reframed a viral audio leak as a 'BRS conspiracy' against him.",
+      "His own handle was largely personal (birthday thank-yous, condolences).",
+      "Political volume was the lowest of the three personas."
+    ],
+    "top_posts": [
+      {"text": "Thank you, Hon'ble AP Deputy CM Shri @PawanKalyan Garu, for your warm birthday wishes and blessings.", "views": 27316},
+      {"text": "Grateful to everyone who conveyed birthday blessings; your wishes strengthen my commitment to public service.", "views": 13898},
+      {"text": "'Mounamelanoyi...' Deeply saddened by the demise of legendary playback singer S. Janaki Amma.", "views": 8000},
+      {"text": "Thank you, Hon'ble Union Minister Shri @BjpVarma Garu, for your kind birthday wishes.", "views": 4083},
+      {"text": "Deeply saddened by the passing of Shri Nand Kishore Goenka Ji, father of Shri Subhash Chandra Ji.", "views": 1868}
+    ]
+  },
+  "news_data": {
+    "article_count": 14,
+    "sentiment": {"positive": 6, "negative": 4, "neutral": 4},
+    "topics": [
+      {"label": "Party / conspiracy defense", "count": 5},
+      {"label": "Governance / outreach", "count": 4},
+      {"label": "Personal / birthday", "count": 3},
+      {"label": "Kaleshwaram / BJP attack", "count": 2}
+    ],
+    "topic_notes": [
+      "Coverage was lighter and more personal than his June (POCSO-dominated) window.",
+      "Supporters and the BJP pushed a 'BRS conspiracy' framing of the audio leak.",
+      "Etala Rajender and the BJP used Kaleshwaram to attack the CM.",
+      "The birthday drew cross-party goodwill (Pawan Kalyan, Manohar Lal)."
+    ],
+    "publications": [
+      {"label": "Deccan Herald", "count": 3},
+      {"label": "Eenadu", "count": 3},
+      {"label": "Sakshi", "count": 3},
+      {"label": "Telangana Today", "count": 3},
+      {"label": "ANI", "count": 2}
+    ],
+    "languages": {"English": 8, "Telugu": 6},
+    "notes": [
+      "A rare positive-leaning fortnight, powered by birthday goodwill and base rallying.",
+      "The residual POCSO thread lingers as a latent risk.",
+      "The BJP kept Bandi adjacent to the week's big story via the Kaleshwaram attack.",
+      "His conversation is niche compared with KTR and the CM."
+    ]
+  },
+  "telugu_press": {
+    "window": "16 Jun - 13 Jul 2026",
+    "eenadu": {
+      "count": 7,
+      "lean": "Neutral / event-led",
+      "headlines": [
+        "Leaders across parties greet Bandi Sanjay on his birthday",
+        "BJP backs Bandi, calls audio leak a fabrication",
+        "Bandi, BJP target Revanth over Kaleshwaram 'blood' remark",
+        "Union minister mourns singer S. Janaki"
+      ]
+    },
+    "sakshi": {
+      "count": 9,
+      "lean": "Critical / conspiracy angle",
+      "headlines": [
+        "Viral audio: BRS alleges Bandi role, BJP calls it a plot",
+        "Questions linger over the POCSO case",
+        "Bandi's birthday draws NDA well-wishes",
+        "BJP jumps into the Kaleshwaram slugfest"
+      ]
+    }
+  },
+  "stories": [
+    {"title": "Birthday goodwill", "detail": "Cross-party wishes (Pawan Kalyan, Manohar Lal, DrLMurugan) drive a rare positive fortnight on Jul 11."},
+    {"title": "'BRS conspiracy' defense", "detail": "Supporters frame a viral audio leak as a fabricated BRS plot against him."},
+    {"title": "Condolences", "detail": "Mourns playback legend S. Janaki and industrialist family elder Nand Kishore Goenka."},
+    {"title": "BJP piles on Kaleshwaram", "detail": "Etala Rajender and the BJP join the attack on Revanth over the 'blood for farmers' remark."},
+    {"title": "Residual POCSO noise", "detail": "The son's case lingers quietly in the background of his mentions."}
+  ],
+  "insights": [
+    "A rare positive-leaning fortnight, powered by birthday goodwill and a base that rallied around a 'BRS conspiracy' framing of an audio leak.",
+    "His own handle was largely personal - thank-yous and condolences - with low political volume.",
+    "The residual POCSO thread faded but did not disappear; it remains a latent risk.",
+    "The BJP used the Kaleshwaram row (Etala Rajender) to keep Bandi adjacent to the week's big story.",
+    "Volume is the lowest of the three - his conversation is niche compared with KTR and the CM."
+  ]
+}

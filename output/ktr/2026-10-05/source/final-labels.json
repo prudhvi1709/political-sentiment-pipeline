@@ -1,0 +1,3522 @@
+[
+  {
+    "id": 0,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Election strategy",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "KTR outlines BRS election plans, predicts ticket cuts, early candidate announcements, and claims surveys favor BRS.",
+    "reason": "Summarizes KTR's own statements about election strategy; no author stance expressed."
+  },
+  {
+    "id": 1,
+    "stance": "unclear",
+    "tone": "unclear",
+    "topic": "Other or unclear",
+    "format": "unclear",
+    "clarity": "context_needed",
+    "summary": "Mentions a video about KTR, unclear if supportive or critical without video context.",
+    "reason": "No explicit stance; meaning depends on unseen video."
+  },
+  {
+    "id": 2,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports Revanth Reddy's allegations that KTR and family own major hotel and land assets in Hyderabad and abroad.",
+    "reason": "Author neutrally reports allegations; negative tone due to subject matter."
+  },
+  {
+    "id": 3,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "KTR/BRS accuse Congress of plotting to harm Ramappa temple with mining, threaten protests if plan not withdrawn.",
+    "reason": "Official BRS statement criticizing rivals, not self-praise; neutral toward KTR."
+  },
+  {
+    "id": 4,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Alleges KTR invested Rs 300 crore in Amaravati hotel via proxy, accuses him of hiding Telangana loot in Andhra.",
+    "reason": "Author directly accuses KTR of corruption; critical stance."
+  },
+  {
+    "id": 5,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Welfare and public requests",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "Describes KCR's Kalyana Lakshmi scheme for girls' marriages, praises KCR's support for families.",
+    "reason": "Praises KCR, not KTR; neutral stance toward KTR."
+  },
+  {
+    "id": 6,
+    "stance": "supportive",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Defends KTR against Congress attacks, questions Revanth's silence on other alleged scams.",
+    "reason": "Author defends KTR, attacks rival; supportive stance."
+  },
+  {
+    "id": 7,
+    "stance": "supportive",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mocks Revanth for hotel raid on KTR's family, claims nothing found, calls CM jobless.",
+    "reason": "Defends KTR, criticizes accuser; supportive stance."
+  },
+  {
+    "id": 8,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Governance and development",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "Lists BRS government achievements for ST community, including reservation increase and educational initiatives.",
+    "reason": "Praises BRS/KCR government, not KTR specifically; neutral stance."
+  },
+  {
+    "id": 9,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Welfare and public requests",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports MLA gave laptop to student under KTR's 'Gift a Smile' program.",
+    "reason": "Describes welfare activity linked to KTR; neutral stance."
+  },
+  {
+    "id": 10,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Other or unclear",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "KTR wishes Sufiyan a happy birthday.",
+    "reason": "Subject-account activity, no stance toward KTR."
+  },
+  {
+    "id": 11,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "BRS legal team files police complaint on fake AI videos targeting KCR, KTR, Harish Rao.",
+    "reason": "Reports BRS action; negative tone due to subject, neutral stance."
+  },
+  {
+    "id": 12,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "context_needed",
+    "summary": "Mentions KTR ready for inquiry, Congress leaders react strongly.",
+    "reason": "Insufficient detail for stance; context needed."
+  },
+  {
+    "id": 13,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Welfare and public requests",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports KTR provided Rs 5 lakh aid to deceased worker's family via local MLA.",
+    "reason": "Describes aid activity; neutral stance."
+  },
+  {
+    "id": 14,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports Revanth Reddy's allegations of KTR family assets in Hyderabad, US, Singapore, and land transfers.",
+    "reason": "Neutral reporting of allegations; negative tone."
+  },
+  {
+    "id": 15,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Pradeep claims he owns Janwada Farmhouse, only leased to KTR, not owned by KTR.",
+    "reason": "Neutral reporting of third-party clarification."
+  },
+  {
+    "id": 16,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Bandi Sanjay alleges KTR's friends benefit from business deals, questions lack of criminal action.",
+    "reason": "Reports politician's allegations; neutral stance, negative tone."
+  },
+  {
+    "id": 17,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "BRS leader accuses Revanth Reddy of corruption, says KTR exposed land gifts to CM's relatives.",
+    "reason": "Reports BRS leader's statements; neutral stance."
+  },
+  {
+    "id": 18,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Public events and festivals",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "KTR arrives in Kochi to speak at India Today Conclave on Telangana's transformation.",
+    "reason": "Reports KTR's event participation; neutral stance."
+  },
+  {
+    "id": 19,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "reported_statement",
+    "clarity": "context_needed",
+    "summary": "Mentions KTR and associates leaving a theatre after a movie.",
+    "reason": "No stance or topic relevance beyond activity; context needed."
+  },
+  {
+    "id": 20,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "reported_statement",
+    "clarity": "context_needed",
+    "summary": "References a 2015 KTR interview, suggests it may be helpful.",
+    "reason": "No explicit stance; context needed for intent."
+  },
+  {
+    "id": 21,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Says KTR will not accept the interview, dismisses another's opinion.",
+    "reason": "No stance toward KTR, only about interview acceptance."
+  },
+  {
+    "id": 22,
+    "stance": "unclear",
+    "tone": "unclear",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Mentions a scene inspired by real events, unclear KTR relevance.",
+    "reason": "No explicit reference to KTR or stance; context missing."
+  },
+  {
+    "id": 23,
+    "stance": "unclear",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "request",
+    "clarity": "context_needed",
+    "summary": "Asks for the story, no KTR reference.",
+    "reason": "No mention or stance toward KTR; context missing."
+  },
+  {
+    "id": 24,
+    "stance": "unclear",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "States 'She is KTR keep', unclear meaning or target.",
+    "reason": "Ambiguous phrase, unclear stance or topic."
+  },
+  {
+    "id": 25,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Rivalry and political attacks",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports KTR absent from Revanth's official event, questions invitation or preference.",
+    "reason": "Raises questions about KTR's absence, no clear support or criticism."
+  },
+  {
+    "id": 26,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Other or unclear",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "KTR congratulates Indian women's hockey team for Asian Games gold.",
+    "reason": "KTR authored, not about himself; neutral stance."
+  },
+  {
+    "id": 27,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Welfare and public requests",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports KTR responded to a party worker's health and financial issues with aid.",
+    "reason": "Describes KTR's action, no explicit praise or criticism."
+  },
+  {
+    "id": 28,
+    "stance": "supportive",
+    "tone": "neutral",
+    "topic": "Personal praise and criticism",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Questions why KTR is trolled for comments about Rakul Preet, sees nothing controversial.",
+    "reason": "Defends KTR from trolling and explicitly rejects the claimed controversy."
+  },
+  {
+    "id": 29,
+    "stance": "unclear",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Suggests a scene was made for certain people, unclear KTR relevance.",
+    "reason": "No clear stance or topic about KTR; context missing."
+  },
+  {
+    "id": 30,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Personal praise and criticism",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mocks KCR and questions what will happen to KTR, implies criticism.",
+    "reason": "Sarcastic, negative about KTR's future; critical stance."
+  },
+  {
+    "id": 31,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mentions a mirror and returning to work in a t-shirt, no KTR relevance.",
+    "reason": "No connection to KTR politician; unrelated."
+  },
+  {
+    "id": 32,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Comments about office dress code, no KTR relevance.",
+    "reason": "No mention or relevance to KTR; unrelated."
+  },
+  {
+    "id": 33,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mentions someone changing clothes, no KTR relevance.",
+    "reason": "No connection to KTR politician; unrelated."
+  },
+  {
+    "id": 34,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Welfare and public requests",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "KTRBRS marks 12 years of Kalyana Lakshmi scheme, credits KCR, criticizes Congress.",
+    "reason": "KTR authored, praises KCR, not self; neutral toward KTR."
+  },
+  {
+    "id": 35,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Questions KTR's logic about Revanth destroying parties, implies BRS could be affected.",
+    "reason": "Challenges KTR's statement, critical stance."
+  },
+  {
+    "id": 36,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports Revanth Reddy's attack on KTR and BRS over lack of development in Sircilla.",
+    "reason": "News report of rival's criticism, neutral author stance."
+  },
+  {
+    "id": 37,
+    "stance": "unclear",
+    "tone": "negative",
+    "topic": "Governance and development",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Defends reuse of earlier project works for an elevated corridor, attacks a BRS-linked critic and disputes waste claims.",
+    "reason": "Attacks a BRS-linked interlocutor over project reuse; no explicit judgment of KTR."
+  },
+  {
+    "id": 38,
+    "stance": "supportive",
+    "tone": "negative",
+    "topic": "Governance and development",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Says Revanth should take administration classes from KTR rather than waste government money.",
+    "reason": "Recommends Revanth learn administration from KTR; criticism targets Revanth."
+  },
+  {
+    "id": 39,
+    "stance": "unclear",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Discusses Telangana and Andhra relations, unclear KTR relevance.",
+    "reason": "No explicit KTR reference or stance; context missing."
+  },
+  {
+    "id": 40,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Defends KTR, denies he owns property in AP, calls opposing claims fake.",
+    "reason": "Directly defends KTR against allegations; supportive."
+  },
+  {
+    "id": 41,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports KTR's statement about owning three five-star hotels.",
+    "reason": "Straightforward report of KTR's statement; neutral stance."
+  },
+  {
+    "id": 42,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Governance and development",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports Sircilla people say KTR did not do less for them.",
+    "reason": "Attributes favorable words to Sircilla residents; no separate author judgment."
+  },
+  {
+    "id": 43,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Personal praise and criticism",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Insults KTR, says people remember his wrongdoings and won't vote for him.",
+    "reason": "Direct personal criticism of KTR; critical stance."
+  },
+  {
+    "id": 44,
+    "stance": "supportive",
+    "tone": "mixed",
+    "topic": "Governance and development",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Credits KTR for Hyderabad and Rangareddy wins, notes some anti-incumbency after ten years, and says lack of work was not the problem.",
+    "reason": "Credits KTR for electoral wins and defends his work despite broader anti-incumbency."
+  },
+  {
+    "id": 45,
+    "stance": "supportive",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Claims KTR had disclosed hotel ownership in his affidavit when the rival was allegedly carrying cash bags.",
+    "reason": "Defends prior affidavit disclosure by KTR while accusing the addressee."
+  },
+  {
+    "id": 46,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Calls someone the smartest guy award winner with laughing emojis.",
+    "reason": "No clear reference to KTR or context; cannot determine stance."
+  },
+  {
+    "id": 47,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Welfare and public requests",
+    "format": "reported_statement",
+    "clarity": "context_needed",
+    "summary": "Reports KTR meeting farmers in Desitikyal village, described as part of Revanth's home district.",
+    "reason": "Reports KTR meeting farmers; no separate author judgment."
+  },
+  {
+    "id": 48,
+    "stance": "unrelated",
+    "tone": "negative",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Criticizes Revanth Reddy's brother for opening a defense company despite low education.",
+    "reason": "No mention or stance toward KTR; unrelated."
+  },
+  {
+    "id": 49,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mocks KTR's hotel business experience, referencing family curry point.",
+    "reason": "Author questions and ridicules KTR's business credentials."
+  },
+  {
+    "id": 50,
+    "stance": "unclear",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Says 'I get it halfway, bro. No one's a fool' with KTR hashtag.",
+    "reason": "Insufficient context to determine stance or topic."
+  },
+  {
+    "id": 51,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Jokes that IT raids on Rakul Preet Singh cause tension for KTR.",
+    "reason": "Author mocks KTR, implying he has reason to worry about IT raids."
+  },
+  {
+    "id": 52,
+    "stance": "unclear",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Jokes that KTR should have opened hotels in Warangal, Mulugu and Bhadrachalam.",
+    "reason": "Joke about where hotels were not opened; no unambiguous accusation or endorsement."
+  },
+  {
+    "id": 53,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Public events and festivals",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "KTR invited as guest of honour at US healthcare summit.",
+    "reason": "Straightforward event report, no author stance."
+  },
+  {
+    "id": 54,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Public events and festivals",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "KTR met South Korean President's Advisor and Seoul National University delegation.",
+    "reason": "Reports KTR's meeting; no stance expressed."
+  },
+  {
+    "id": 55,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports Revanth Reddy's attacks on KTR, property allegations, and promises in Sircilla.",
+    "reason": "Reports rival's criticism; author stance is neutral, tone negative."
+  },
+  {
+    "id": 56,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Calls something innovative with a smiley.",
+    "reason": "No clear reference to KTR or context; stance undetermined."
+  },
+  {
+    "id": 57,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Public events and festivals",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "KTR named a baby Mahika on his birthday at Telangana Bhavan.",
+    "reason": "Reports KTR's participation in naming; no stance."
+  },
+  {
+    "id": 58,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Personal praise and criticism",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Expresses affection and admiration for KTR.",
+    "reason": "Directly praises KTR with affectionate language."
+  },
+  {
+    "id": 59,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Personal praise and criticism",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mocks KTR and family, referencing Revanth's impact and family issues.",
+    "reason": "Sarcastic and mocking toward KTR and his family."
+  },
+  {
+    "id": 60,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports KTR's statement about hotel business growth and company performance.",
+    "reason": "Reports KTR's own words and company data; no author stance."
+  },
+  {
+    "id": 61,
+    "stance": "unclear",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Alleges unnamed people looted Rs 50,000 crore in three years and threatens to expose where assets were hidden.",
+    "reason": "No named target in the text; cannot assign the corruption accusation to KTR."
+  },
+  {
+    "id": 62,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "request",
+    "clarity": "clear",
+    "summary": "Tells Revanth, sarcastically, to discuss KCR and KTR relatives' purchases instead of governance.",
+    "reason": "Sarcastically criticizes Revanth's focus on family assets rather than governance."
+  },
+  {
+    "id": 63,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports ACB seeking KTR's passport seizure in Formula E case; explains process.",
+    "reason": "Factual report on legal proceedings; no stance."
+  },
+  {
+    "id": 64,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mentions doing file work from home.",
+    "reason": "No stance toward KTR; routine activity post."
+  },
+  {
+    "id": 65,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Alleges KTR used OYO connections for personal hotel business gains as IT Minister.",
+    "reason": "Accuses KTR of exploiting position for business benefit."
+  },
+  {
+    "id": 66,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "CM Revanth claims KTR and family own large landholdings exceeding legal ceiling in Telangana.",
+    "reason": "Reports Revanth's Assembly allegations about KTR's assets; author stance is neutral, tone negative due to accusation."
+  },
+  {
+    "id": 67,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Governance and development",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Author praises KTR for building Asia's 2nd largest cycle track and defends against criticism.",
+    "reason": "Author expresses support for KTR's development work and dismisses critics."
+  },
+  {
+    "id": 68,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Public events and festivals",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "KTR fell from a vehicle during an election rally; more details awaited.",
+    "reason": "Straightforward news report about KTR's accident, no stance expressed."
+  },
+  {
+    "id": 69,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mentions KTR as a proposed wildlife zone in Rajasthan, not the politician.",
+    "reason": "KTR here refers to a wildlife area, not the Telangana politician."
+  },
+  {
+    "id": 70,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Personal praise and criticism",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Author claims KTR is still the same as before, now more careful to avoid exposure.",
+    "reason": "Implied criticism of KTR's character or actions, but lacks specifics."
+  },
+  {
+    "id": 71,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "BRS spokesperson defends KTR, calls Revanth's asset allegations a smear campaign and half-baked.",
+    "reason": "IANS quotes a spokesperson defending KTR; author stance is not expressed."
+  },
+  {
+    "id": 72,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Welfare and public requests",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Author claims KTR helps everyone in Sircilla, recently gave a laptop to a student.",
+    "reason": "Praises KTR's personal assistance and generosity."
+  },
+  {
+    "id": 73,
+    "stance": "unclear",
+    "tone": "unclear",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Reference to KTR and 'Mestri' with emojis; unclear meaning or stance.",
+    "reason": "Insufficient context to determine stance or topic."
+  },
+  {
+    "id": 74,
+    "stance": "unclear",
+    "tone": "unclear",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Asks about identity of 'binami' Shirisha; context about KTR unclear.",
+    "reason": "Possible reference to benami assets, but lacks clarity or direct link."
+  },
+  {
+    "id": 75,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Rivalry and political attacks",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Raghunandan Rao challenges KTR and Revanth to go to Chief Justice together.",
+    "reason": "Reports a political challenge; no author stance."
+  },
+  {
+    "id": 76,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Asks if film characters are based on KCR, KTR, and Revanth Reddy.",
+    "reason": "No stance toward KTR, just a question about film inspiration."
+  },
+  {
+    "id": 77,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mentions long weekend; no reference to KTR the politician.",
+    "reason": "No meaningful connection to KTR the politician."
+  },
+  {
+    "id": 78,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mentions office and Bappu; no reference to KTR the politician.",
+    "reason": "No connection to KTR the politician."
+  },
+  {
+    "id": 79,
+    "stance": "unclear",
+    "tone": "unclear",
+    "topic": "Other or unclear",
+    "format": "request",
+    "clarity": "context_needed",
+    "summary": "Mentions KTR striking to close office; unclear if literal or sarcastic.",
+    "reason": "Insufficient context to determine stance or topic."
+  },
+  {
+    "id": 80,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Claims KTR has two circles: business and political, both excluding BRS cadre.",
+    "reason": "Critical of KTR's alleged exclusivity and favoritism."
+  },
+  {
+    "id": 81,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mocks KTR for being beaten by a Congress party described as previously third-placed in the city.",
+    "reason": "Sarcastically mocks being beaten by Congress, not a KTR victory."
+  },
+  {
+    "id": 82,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Questions KTR's wealth, claims he owns hotels and high income, contrasts with followers' struggles.",
+    "reason": "Critical of KTR's wealth and perceived disconnect from public."
+  },
+  {
+    "id": 83,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Election strategy",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Author bets KTR will win, regardless of rival party.",
+    "reason": "Expresses confidence in KTR's electoral success."
+  },
+  {
+    "id": 84,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Asks who is Congress; no reference to KTR.",
+    "reason": "No mention or stance toward KTR."
+  },
+  {
+    "id": 85,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Election strategy",
+    "format": "request",
+    "clarity": "clear",
+    "summary": "Asks how Congress will win against KTR.",
+    "reason": "Question about election, no stance toward KTR."
+  },
+  {
+    "id": 86,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Election strategy",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "KTR expresses confidence BRS will retain MLC seat in upcoming elections.",
+    "reason": "Reports KTR's statement; author stance neutral, tone positive."
+  },
+  {
+    "id": 87,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Congress leader questions KTR's claim of earning enough in US to own three hotels, calls him not credible.",
+    "reason": "ANI reports a Congress leader's accusations; no separate author endorsement."
+  },
+  {
+    "id": 88,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Claims Revanth's move overturned KTR's political game.",
+    "reason": "Mocks KTR as being outplayed by Revanth, critical stance."
+  },
+  {
+    "id": 89,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Party leadership",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Praises KCR's Telangana stature but claims KTR only damaged his father's reputation.",
+    "reason": "Explicitly says KTR brought his father a bad name."
+  },
+  {
+    "id": 90,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Party leadership",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "States KTR has never lost an election; reason not provided.",
+    "reason": "Praises KTR's electoral record, supportive stance."
+  },
+  {
+    "id": 91,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "official_statement",
+    "clarity": "context_needed",
+    "summary": "KTRBRS updates profile picture.",
+    "reason": "No stance or opinion expressed about KTR."
+  },
+  {
+    "id": 92,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Governance and development",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "Congratulates space-tech startups, notes Telangana's support for innovation.",
+    "reason": "Celebrates Telangana startup ecosystem and institutions; no judgment of KTR himself."
+  },
+  {
+    "id": 93,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports Revanth Reddy's sarcastic remarks about KTR and BRS spending.",
+    "reason": "Straightforward report of rival's criticism, neutral author stance."
+  },
+  {
+    "id": 94,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports KTR clarifying KCR family land assets and their origins.",
+    "reason": "Reports KTR's clarification, no author stance."
+  },
+  {
+    "id": 95,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Other or unclear",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "KTRBRS shares excitement about watching a movie in theater.",
+    "reason": "Personal activity, no stance toward KTR."
+  },
+  {
+    "id": 96,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Public events and festivals",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "KTRBRS congratulates film team for their work and performances.",
+    "reason": "Congratulates others, not self-praise or political content."
+  },
+  {
+    "id": 97,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Rivalry and political attacks",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Notes heavy police for Revanth's visit to KTR's stronghold; KTR is away at media event.",
+    "reason": "Describes events and context, no stance toward KTR."
+  },
+  {
+    "id": 98,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Party leadership",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "KTRBRS thanks voters, accepts defeat, congratulates Congress, vows to learn and return.",
+    "reason": "Acknowledges election result, no self-praise or blame."
+  },
+  {
+    "id": 99,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Accuses KTR family of hiding hotel assets, demands investigation and strict punishment.",
+    "reason": "Directly accuses KTR of corruption, critical stance."
+  },
+  {
+    "id": 100,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Welfare and public requests",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "KTRBRS expresses condolences for bus accident victims, urges local leaders to help.",
+    "reason": "Expresses sympathy and requests action, no self-praise."
+  },
+  {
+    "id": 101,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Historical recollections",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "KTRBRS pays tribute to Lal Bahadur Shastri on his birth anniversary.",
+    "reason": "Remembers national leader, not about KTR himself."
+  },
+  {
+    "id": 102,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Questions Revanth's land allegations, notes KTR also demands judicial probe.",
+    "reason": "Discusses KTR's demand for probe, no clear stance toward KTR."
+  },
+  {
+    "id": 103,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Other or unclear",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "KTRBRS praises Indian cricket team's semifinal win.",
+    "reason": "Sports commentary, not about KTR's politics."
+  },
+  {
+    "id": 104,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Governance and development",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Criticizes KTR for failing to provide bus stand and basic facilities in Sircilla.",
+    "reason": "Directly blames KTR for lack of local development."
+  },
+  {
+    "id": 105,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports KTR's sarcastic comment thanking Revanth for hotel publicity.",
+    "reason": "Reports KTR's statement, no author stance."
+  },
+  {
+    "id": 106,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Demands KTR answer allegations about hotels and drugs, says stories are insufficient.",
+    "reason": "Directly challenges KTR to respond to accusations."
+  },
+  {
+    "id": 107,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Claims KTR avoids farm due to fear of land scam exposure by Revanth.",
+    "reason": "Accuses KTR of hiding due to alleged scam, critical stance."
+  },
+  {
+    "id": 108,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Governance and development",
+    "format": "request",
+    "clarity": "context_needed",
+    "summary": "Asks whether others are experiencing power cuts.",
+    "reason": "KTR_News asks about electricity supply; no judgment of KTR."
+  },
+  {
+    "id": 109,
+    "stance": "unclear",
+    "tone": "unclear",
+    "topic": "Governance and development",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Affirms KTR's statements as true, agrees schools in his constituency prove it.",
+    "reason": "Agreement wording with expose framing may be sarcastic; supporting media is absent."
+  },
+  {
+    "id": 110,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Party leadership",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mocks BRS for lack of clarity on CM candidate, questions KTR's leadership.",
+    "reason": "Author ridicules KTR and BRS for confusion, showing critical stance."
+  },
+  {
+    "id": 111,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Alleges KTR is involved in benami hotel project in Amaravati, accuses him of moving money out of Telangana.",
+    "reason": "Author accuses KTR of corruption and hypocrisy, clearly critical."
+  },
+  {
+    "id": 112,
+    "stance": "unclear",
+    "tone": "unclear",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Conversation about Mahesh Babu and KTR, unclear relevance to politician.",
+    "reason": "No clear stance toward KTR; context or target ambiguous."
+  },
+  {
+    "id": 113,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mocks Congress for focusing on KTR rather than Gandhi Jayanti.",
+    "reason": "Abuse targets Congress for focusing on KTR, without a judgment of KTR."
+  },
+  {
+    "id": 114,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports BRS protest over ED investigation, KTR questions agency's actions.",
+    "reason": "Straightforward report of events and KTR's statements, neutral stance."
+  },
+  {
+    "id": 115,
+    "stance": "unclear",
+    "tone": "unclear",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Mentions Jagan as CM and KTR, unclear context or stance.",
+    "reason": "No clear stance toward KTR; context or intent ambiguous."
+  },
+  {
+    "id": 116,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Governance and development",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports Telangana's industrial growth under Revanth Reddy, compares to KTR era.",
+    "reason": "Focuses on current government, mentions KTR neutrally."
+  },
+  {
+    "id": 117,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Governance and development",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mocks KTR and his team for complaining online while real development happens.",
+    "reason": "Author belittles KTR's efforts, critical stance."
+  },
+  {
+    "id": 118,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Historical recollections",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "Recalls 2012 Sagaraharam as key Telangana movement event, salutes participants.",
+    "reason": "KTRBRS account commemorates event, neutral toward himself."
+  },
+  {
+    "id": 119,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports phone tapping case charge sheet involving KTR and others.",
+    "reason": "News report, no author stance toward KTR."
+  },
+  {
+    "id": 120,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "KTR states he disclosed hotel ownership in 2009 affidavit, questions Revanth's claims.",
+    "reason": "Reports KTR's defense, neutral author stance."
+  },
+  {
+    "id": 121,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Revanth Reddy alleges KTR owns five-star hotel with 190 rooms, hints at more revelations.",
+    "reason": "Reports rival's accusation, neutral author stance."
+  },
+  {
+    "id": 122,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "KTRBRS posts about Hyderabad landmarks and mood, hints at someone unhappy.",
+    "reason": "No self-praise or criticism, neutral stance."
+  },
+  {
+    "id": 123,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Governance and development",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Criticizes KTR for poor conditions in Sircilla despite large development claims.",
+    "reason": "Author highlights failures in KTR's constituency, critical stance."
+  },
+  {
+    "id": 124,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Personal praise and criticism",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mocks KTR PRO's behavior at police station, compares to film script quality.",
+    "reason": "Ridicules KTR's team, critical stance."
+  },
+  {
+    "id": 125,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports Revanth Reddy's allegations about KTR's and family's properties in Hyderabad and abroad.",
+    "reason": "Reports allegations, neutral author stance."
+  },
+  {
+    "id": 126,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Governance and development",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Kaushik Reddy compares KTR's Sircilla development to Revanth's work in Kodangal.",
+    "reason": "Reports politician's statement, neutral stance."
+  },
+  {
+    "id": 127,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Public events and festivals",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Lists KTR's scheduled visits and programs for September 2026.",
+    "reason": "Event listing, no stance expressed."
+  },
+  {
+    "id": 128,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Claims Revanth's rally turnout in Sircilla will cause KTR sleepless nights.",
+    "reason": "Author suggests KTR is threatened, critical stance."
+  },
+  {
+    "id": 129,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Accuses KTR of lying about KCR's zamindar background using affidavit data.",
+    "reason": "Author calls out KTR for alleged dishonesty, critical stance."
+  },
+  {
+    "id": 130,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Governance and development",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Questions if KTR's digital bus stand in Sircilla is truly digital, asks BRS to clarify.",
+    "reason": "Doubts KTR's development claims, critical stance."
+  },
+  {
+    "id": 131,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Governance and development",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mocks KTR for posting about civic issues, suggests he should clean up himself.",
+    "reason": "Ridicules KTR's actions, critical stance."
+  },
+  {
+    "id": 132,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Public events and festivals",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "KTR expresses condolences for Sushma Swaraj, recalls her support for Telangana statehood.",
+    "reason": "KTRBRS post, no self-praise or criticism, neutral stance."
+  },
+  {
+    "id": 133,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Party leadership",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports Kavitha's strong criticism and warnings to KTR, accusing him of harming BRS and blaming KCR.",
+    "reason": "RTV reports Kavitha's criticism; the author does not independently endorse it."
+  },
+  {
+    "id": 134,
+    "stance": "unclear",
+    "tone": "unclear",
+    "topic": "Other or unclear",
+    "format": "unclear",
+    "clarity": "context_needed",
+    "summary": "Short, ambiguous phrase directed at KTR, unclear intent.",
+    "reason": "Insufficient context to determine stance or topic."
+  },
+  {
+    "id": 135,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Other or unclear",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "KTR congratulates Chikitha Taniparthi for Asian Games archery golds, celebrates Telangana's pride.",
+    "reason": "KTRBRS post, not about himself, neutral stance."
+  },
+  {
+    "id": 136,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Claims KTR fled Telangana fearing backlash for failing as MLA and Leader of Opposition.",
+    "reason": "Author accuses KTR of failure and cowardice, critical."
+  },
+  {
+    "id": 137,
+    "stance": "unrelated",
+    "tone": "unclear",
+    "topic": "Other or unclear",
+    "format": "unclear",
+    "clarity": "context_needed",
+    "summary": "Text unrelated to Telangana politician KTR.",
+    "reason": "No meaningful connection to KTR, false positive."
+  },
+  {
+    "id": 138,
+    "stance": "unclear",
+    "tone": "unclear",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Congratulates KTR with a laughing emoji, intent unclear.",
+    "reason": "Sarcasm possible, but target and stance ambiguous."
+  },
+  {
+    "id": 139,
+    "stance": "unclear",
+    "tone": "unclear",
+    "topic": "Assets and allegations",
+    "format": "request",
+    "clarity": "context_needed",
+    "summary": "Asks who is the richest politician in Telangana, possibly implying KTR.",
+    "reason": "Implied target, but not explicit; stance unclear."
+  },
+  {
+    "id": 140,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Alleges KTR is the most corrupt and calls him Real Estate Ramudu.",
+    "reason": "Direct accusation of corruption, critical stance."
+  },
+  {
+    "id": 141,
+    "stance": "unclear",
+    "tone": "unclear",
+    "topic": "Historical recollections",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Comments on once-dominant Assembly leaders being brought to an altered situation; tags KCR, KTR and Harish Rao.",
+    "reason": "The addressee and Assembly incident are unspecified; cannot assign praise to KTR."
+  },
+  {
+    "id": 142,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports KTR's response to Revanth Reddy about hotel ownership and business activities.",
+    "reason": "Straightforward media quote, neutral author stance."
+  },
+  {
+    "id": 143,
+    "stance": "unclear",
+    "tone": "unclear",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Single fire emoji, no clear context or stance.",
+    "reason": "No explicit content or target, unclear stance."
+  },
+  {
+    "id": 144,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Governance and development",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Credits KTR in opposition with preventing even an acre being taken at HCU, Urdu University, Tesseract and Musi-edge locations.",
+    "reason": "Credits KTR with preventing land from being taken while in opposition."
+  },
+  {
+    "id": 145,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "request",
+    "clarity": "clear",
+    "summary": "Questions KTR about ownership of Deccan Serai and At Home service apartments.",
+    "reason": "Implied accusation regarding KTR's assets."
+  },
+  {
+    "id": 146,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Rivalry and political attacks",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Claims Congress cannot succeed in Sircilla, KTR's stronghold.",
+    "reason": "Expresses confidence in KTR's dominance, supportive."
+  },
+  {
+    "id": 147,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Quotes KTR saying he lives in a farmhouse due to lack of own house.",
+    "reason": "Reported statement, neutral author stance."
+  },
+  {
+    "id": 148,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Story about a daughter and a kei truck, unrelated to KTR.",
+    "reason": "No connection to Telangana politician KTR."
+  },
+  {
+    "id": 149,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Discussion about manual transmission KTR, unrelated to politician.",
+    "reason": "KTR refers to car, not politician."
+  },
+  {
+    "id": 150,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Governance and development",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mocks BRS supporters for crediting KTR with new bus stand, calls his role negligible.",
+    "reason": "Sarcastic dismissal of KTR's contribution."
+  },
+  {
+    "id": 151,
+    "stance": "unclear",
+    "tone": "negative",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Expresses strong dislike for an account, unclear if KTR-related.",
+    "reason": "No explicit link to KTR, context needed."
+  },
+  {
+    "id": 152,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Rivalry and political attacks",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports Congress's large rally in Sircilla, KTR's constituency, during Revanth Reddy's visit.",
+    "reason": "Straightforward event report, neutral stance."
+  },
+  {
+    "id": 153,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Lists allegations about KTR's assets, loans, and questions his wealth and governance.",
+    "reason": "Multiple accusations and doubts about KTR, critical."
+  },
+  {
+    "id": 154,
+    "stance": "supportive",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Says the addressee has no standing to criticize KTR and asks about allocating government land to a newly registered company.",
+    "reason": "Defends KTR and questions the rival's land allocation, not KTR's."
+  },
+  {
+    "id": 155,
+    "stance": "unclear",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "unclear",
+    "clarity": "context_needed",
+    "summary": "Mentions RP Singh always staying at a certain hotel in Hyderabad.",
+    "reason": "No clear stance toward KTR; context about hotel name needed."
+  },
+  {
+    "id": 156,
+    "stance": "unclear",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "unclear",
+    "clarity": "context_needed",
+    "summary": "Brief mention of KTR without context or opinion.",
+    "reason": "Insufficient information to determine stance or topic."
+  },
+  {
+    "id": 157,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Personal praise and criticism",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Expresses support for KTR representing Sircilla.",
+    "reason": "Directly supportive of KTR with positive tone."
+  },
+  {
+    "id": 158,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Party leadership",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Criticizes Kalvakuntla family, including KTR, for dominating politics.",
+    "reason": "Targets KTR and family with negative framing."
+  },
+  {
+    "id": 159,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Public events and festivals",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "KTR thanks Sircilla voters for his record majority and promises service.",
+    "reason": "KTR expresses gratitude; neutral stance toward himself."
+  },
+  {
+    "id": 160,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Discusses Revanth Reddy and Chandrababu, not KTR.",
+    "reason": "No meaningful connection to KTR."
+  },
+  {
+    "id": 161,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Criticizes KTR for regional politics and family working abroad.",
+    "reason": "Direct criticism of KTR's politics and background."
+  },
+  {
+    "id": 162,
+    "stance": "unclear",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "unclear",
+    "clarity": "context_needed",
+    "summary": "Mentions KTR about Andhra people without details.",
+    "reason": "No content to determine stance or topic."
+  },
+  {
+    "id": 163,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Personal praise and criticism",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Harshly criticizes KTR's behavior and arrogance in assembly.",
+    "reason": "Direct personal criticism of KTR."
+  },
+  {
+    "id": 164,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "KTR compliments someone's dancing skills humorously.",
+    "reason": "No stance toward himself; unrelated to politics."
+  },
+  {
+    "id": 165,
+    "stance": "supportive",
+    "tone": "neutral",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Explains business ownership is possible before KTR became MLA.",
+    "reason": "Counters suspicion about KTR's hotel financing with legitimate business explanations."
+  },
+  {
+    "id": 166,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Quotes KTR criticizing divisive politics, then asks whether the issues he dismissed are not real issues for him.",
+    "reason": "The author adds a skeptical question about KTR after quoting his remarks."
+  },
+  {
+    "id": 167,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Personal praise and criticism",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Accuses KTR of lying and insults his credibility.",
+    "reason": "Directly attacks KTR's honesty."
+  },
+  {
+    "id": 168,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "KTR criticizes Congress coal import policy, praises BRS power supply record.",
+    "reason": "KTR's own statement; neutral stance toward himself."
+  },
+  {
+    "id": 169,
+    "stance": "unclear",
+    "tone": "unclear",
+    "topic": "Personal praise and criticism",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Remarks that KTR is very lucky.",
+    "reason": "Calling KTR lucky lacks enough context to distinguish admiration from sarcasm."
+  },
+  {
+    "id": 170,
+    "stance": "unclear",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Compares Nallamala tiger to a cat near Chandrababu.",
+    "reason": "No clear connection to KTR; context needed."
+  },
+  {
+    "id": 171,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "General motivational message about work and Potafes.",
+    "reason": "No connection to KTR politician."
+  },
+  {
+    "id": 172,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Japanese greeting to KTR, no political content.",
+    "reason": "No relevant content about KTR as politician."
+  },
+  {
+    "id": 173,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "KTR says doing business while in politics is not wrong.",
+    "reason": "Neutral reporting of KTR's view on business."
+  },
+  {
+    "id": 174,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "request",
+    "clarity": "clear",
+    "summary": "Demands KTR be punished for alleged 54 crore scam and urges CM to act.",
+    "reason": "Directly calls for action against KTR."
+  },
+  {
+    "id": 175,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Election strategy",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports speculation that KTR may leave Sircilla due to political challenges.",
+    "reason": "Neutral reporting of rumors about KTR's election plans."
+  },
+  {
+    "id": 176,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Personal praise and criticism",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mocks KTR's prospects, calls him a comedian and predicts he will lose.",
+    "reason": "Author insults KTR and doubts his electoral success."
+  },
+  {
+    "id": 177,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Party leadership",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mentions KTR would come after KCR if following alphabetical order.",
+    "reason": "No support or criticism, just a neutral observation."
+  },
+  {
+    "id": 178,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Public events and festivals",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "States KTR will attend India Today Conclave 2026 in Kochi.",
+    "reason": "No stance expressed, just event information."
+  },
+  {
+    "id": 179,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Accuses Kalvakuntla family, including KTR, of double standards and amassing assets.",
+    "reason": "Author criticizes KTR for alleged hypocrisy and asset accumulation."
+  },
+  {
+    "id": 180,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Claims KTR did not say he owned three hotels until Revanth mentioned them.",
+    "reason": "Implies KTR withheld hotel disclosure until the rival mentioned it."
+  },
+  {
+    "id": 181,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Governance and development",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Praises government for adapting KBR Park plans based on public feedback.",
+    "reason": "Commends government flexibility, not specifically KTR."
+  },
+  {
+    "id": 182,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Taunts KTR about upcoming meetings, implying defeat.",
+    "reason": "Author mocks KTR, expressing opposition."
+  },
+  {
+    "id": 183,
+    "stance": "supportive",
+    "tone": "negative",
+    "topic": "Personal praise and criticism",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Attacks someone for speaking against KTR and warns of consequences if BRS returns.",
+    "reason": "Threatens an interlocutor for criticizing KTR; criticism does not target KTR."
+  },
+  {
+    "id": 184,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "request",
+    "clarity": "clear",
+    "summary": "Demands KTR explain the low-value ORR lease and possible scam.",
+    "reason": "Author questions KTR's actions, implying wrongdoing."
+  },
+  {
+    "id": 185,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Accuses KTR of offering money to take land, contrasts with others.",
+    "reason": "Author alleges corruption by KTR."
+  },
+  {
+    "id": 186,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Thanks Revanth Reddy for hotel publicity, mocks his discovery.",
+    "reason": "No clear stance toward KTR, focus is on Revanth."
+  },
+  {
+    "id": 187,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Quotes Revanth Reddy mocking KTR's understanding of Congress and governance.",
+    "reason": "Author quotes a rival's criticism, but stance is neutral."
+  },
+  {
+    "id": 188,
+    "stance": "unrelated",
+    "tone": "unclear",
+    "topic": "Other or unclear",
+    "format": "unclear",
+    "clarity": "context_needed",
+    "summary": "Mentions Harish Rao and Aziz Nagar farmhouse, unclear KTR relevance.",
+    "reason": "No explicit KTR connection in text."
+  },
+  {
+    "id": 189,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Claims everything is for KTR's money, uses derogatory language.",
+    "reason": "Author criticizes KTR for alleged greed."
+  },
+  {
+    "id": 190,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Election strategy",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Praises KTR's stronghold in Sircilla and predicts a big majority.",
+    "reason": "Author expresses support and confidence in KTR."
+  },
+  {
+    "id": 191,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Welfare and public requests",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports farmers meeting officials about land loss for bullet train, tags KTR.",
+    "reason": "No stance toward KTR, just reporting a grievance."
+  },
+  {
+    "id": 192,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Assets and allegations",
+    "format": "request",
+    "clarity": "clear",
+    "summary": "Asks KTR to clarify about Kaleshwaram repair funding, quotes his statement.",
+    "reason": "Request for clarification, no support or criticism."
+  },
+  {
+    "id": 193,
+    "stance": "unclear",
+    "tone": "unclear",
+    "topic": "Other or unclear",
+    "format": "unclear",
+    "clarity": "context_needed",
+    "summary": "Mentions KTR and Deccan Serai hotel, context unclear.",
+    "reason": "Insufficient information to determine stance or topic."
+  },
+  {
+    "id": 194,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Questions KTR's business connections and source of wealth.",
+    "reason": "Author doubts legitimacy of KTR's finances."
+  },
+  {
+    "id": 195,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Quotes Congress MP calling KTR frustrated, accuses him of deflecting issues.",
+    "reason": "Neutral stance as it's a straightforward media quote."
+  },
+  {
+    "id": 196,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Party leadership",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Questions if Revanth or KTR is jinxed for their parties.",
+    "reason": "No clear support or criticism, just a rhetorical question."
+  },
+  {
+    "id": 197,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Suggests Revanth would easily defeat KTR without KCR and HR.",
+    "reason": "Author implies KTR is weak without allies."
+  },
+  {
+    "id": 198,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Personal praise and criticism",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mocks KTR, compares him to AP CM's son, calls him 'pappu'.",
+    "reason": "Author ridicules KTR, expressing a negative opinion."
+  },
+  {
+    "id": 199,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Questions KTR's claim of not owning a proper house, asks about Deccan Serai hotel.",
+    "reason": "Author challenges KTR's statements, implying dishonesty."
+  },
+  {
+    "id": 200,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mentions KTR's past corporate role and speculates about his earnings.",
+    "reason": "No clear support or criticism of KTR, just speculation."
+  },
+  {
+    "id": 201,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mentions KTR's 2009 affidavit contains all asset details.",
+    "reason": "States a fact about affidavit, no stance toward KTR."
+  },
+  {
+    "id": 202,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Personal praise and criticism",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Calls KTR one of the most corrupt politicians, advises to stay away.",
+    "reason": "Author labels KTR corrupt, expressing criticism."
+  },
+  {
+    "id": 203,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Claims no one could stop KTR from looting in his own state.",
+    "reason": "Accuses KTR of corruption, critical stance."
+  },
+  {
+    "id": 204,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "KTR says he has no connection to Kondal Rao and Naveen Rao's assets.",
+    "reason": "Reports KTR's statement, no author stance."
+  },
+  {
+    "id": 205,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Says KTR is defensive and implies he is admitting to looting.",
+    "reason": "Author interprets KTR's behavior as guilt, critical."
+  },
+  {
+    "id": 206,
+    "stance": "supportive",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Complains about threats and abuse toward self and KTR by rival party member.",
+    "reason": "Defends KTR against attacks, supportive stance."
+  },
+  {
+    "id": 207,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Accuses KTR of lying about hotel ownership in 2009 affidavit.",
+    "reason": "Claims KTR is dishonest about assets, critical."
+  },
+  {
+    "id": 208,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Election strategy",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports KTR's comments on election outcomes and rival politicians.",
+    "reason": "Reports KTR's statement, no author stance."
+  },
+  {
+    "id": 209,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "KTR says he owns three hotels and justifies his business.",
+    "reason": "Reports KTR's own justification, neutral stance."
+  },
+  {
+    "id": 210,
+    "stance": "unclear",
+    "tone": "unclear",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Mentions politicians vs common people, unclear reference to KTR.",
+    "reason": "No explicit stance toward KTR, context insufficient."
+  },
+  {
+    "id": 211,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Asks the addressee to examine both KTR's and the current CM's assets rather than run selective agendas.",
+    "reason": "Requests checking both politicians and criticizes selective agendas; no specific KTR judgment."
+  },
+  {
+    "id": 212,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Other or unclear",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "KTRBRS account announces upcoming celebration, 'Hattrick Loading'.",
+    "reason": "Subject account, neutral toward KTR, positive tone."
+  },
+  {
+    "id": 213,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports MP Raghunandan Rao's call for judicial probe into KTR and Revanth's assets.",
+    "reason": "Reports accusation, but author stance is neutral."
+  },
+  {
+    "id": 214,
+    "stance": "supportive",
+    "tone": "mixed",
+    "topic": "Rivalry and political attacks",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Describes Siricilla meeting as flop but says KTR's stature increased.",
+    "reason": "Calls Congress rally a failure and says it increased KTR's stature; criticism is of Congress."
+  },
+  {
+    "id": 215,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Rivalry and political attacks",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Praises BRS cadre and police for restraint, says rivals tried to provoke blame on KTR.",
+    "reason": "Defends KTR and BRS, supportive stance."
+  },
+  {
+    "id": 216,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Accuses KTR of lying about hotel ownership, calls him a thief.",
+    "reason": "Directly calls KTR a thief, critical stance."
+  },
+  {
+    "id": 217,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports KTR's comment about phone usage and relationships.",
+    "reason": "Reports KTR's words, no author stance."
+  },
+  {
+    "id": 218,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "BRS spokesperson says KTR's properties are declared, invites probe if not legitimate.",
+    "reason": "Reports spokesperson's defense, neutral author stance."
+  },
+  {
+    "id": 219,
+    "stance": "unclear",
+    "tone": "unclear",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Asks who looted Telangana, tags KTR and others.",
+    "reason": "Ambiguous target, unclear stance toward KTR."
+  },
+  {
+    "id": 220,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Other or unclear",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "KTR comments that a film's KCR scene stands out.",
+    "reason": "KTR's statement about a movie scene, no stance toward himself."
+  },
+  {
+    "id": 221,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Rivalry and political attacks",
+    "format": "reported_statement",
+    "clarity": "context_needed",
+    "summary": "Congress leader Chanagani Dayakar challenges KTR.",
+    "reason": "Reports a challenge to KTR, no author stance."
+  },
+  {
+    "id": 222,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Rivalry and political attacks",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Author dares Revanth Reddy to contest against KTR, implying KTR's strength.",
+    "reason": "Supports KTR by expressing confidence in his abilities."
+  },
+  {
+    "id": 223,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mocks KTR after Revanth Reddy's meeting in Siricilla.",
+    "reason": "Sarcastic tone, ridicules KTR after rival's event."
+  },
+  {
+    "id": 224,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Claims KCR family can't deny Revanth's allegations about hotels since 2006.",
+    "reason": "Author sides with accuser, critical of KTR/KCR family."
+  },
+  {
+    "id": 225,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "KTR criticizes BJP and PM Modi over hate speech, demands apology.",
+    "reason": "KTR attacks rivals, not self-praise or defense."
+  },
+  {
+    "id": 226,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Governance and development",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Questions KTR's absence from Siricilla and lack of action for its development.",
+    "reason": "Author criticizes KTR's governance and presence."
+  },
+  {
+    "id": 227,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Rivalry and political attacks",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Revanth Reddy claims Congress flag now flies in Siricilla, mentions KTR.",
+    "reason": "Reports rival's statement, no author stance."
+  },
+  {
+    "id": 228,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "BRS spokesperson alleges CM's actions against KTR are diversion tactics.",
+    "reason": "Reports BRS defense of KTR, but author stance is neutral."
+  },
+  {
+    "id": 229,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Party leadership",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Expresses confidence in KTR's strong comeback at India Today Conclave.",
+    "reason": "Author expresses support and optimism for KTR."
+  },
+  {
+    "id": 230,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Public events and festivals",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Shares a memorable moment with KTR at The Paradise event.",
+    "reason": "Positive sentiment toward KTR at a public event."
+  },
+  {
+    "id": 231,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "KTR condemns BJP's remarks on Telangana formation, demands apology.",
+    "reason": "KTR attacks rivals, not self-praise or defense."
+  },
+  {
+    "id": 232,
+    "stance": "unrelated",
+    "tone": "negative",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Criticizes Revanth Reddy's governance and education/welfare departments.",
+    "reason": "No mention or clear link to KTR."
+  },
+  {
+    "id": 233,
+    "stance": "unclear",
+    "tone": "neutral",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Questions about Heritage and singing for another state, unclear KTR link.",
+    "reason": "Possible reference to KTR, but context is insufficient."
+  },
+  {
+    "id": 234,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mocks KTR for alleged corruption and benami properties linked to Heritage.",
+    "reason": "Directly accuses and mocks KTR for corruption."
+  },
+  {
+    "id": 235,
+    "stance": "unrelated",
+    "tone": "positive",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Greets KTR in Japanese, no clear political content.",
+    "reason": "Part of Japanese-language greetings to another KTR referent, without Telangana connection."
+  },
+  {
+    "id": 236,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Revanth Reddy claims KCR & KTR family turned votes into wealth.",
+    "reason": "Attributes the accusation to Revanth at Sircilla; no separate author judgment."
+  },
+  {
+    "id": 237,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Election strategy",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Praises KTR's leadership in MLC election preparations.",
+    "reason": "Author expresses support for KTR's election efforts."
+  },
+  {
+    "id": 238,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Welfare and public requests",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Questions Revanth about benefits to people, compares with KTR's wealth.",
+    "reason": "Criticizes Revanth, not KTR; stance toward KTR is neutral."
+  },
+  {
+    "id": 239,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Revanth Reddy counters 'ribbon cut CM' comments, accuses others of theft.",
+    "reason": "Reports rival's attack, negative tone, neutral author stance."
+  },
+  {
+    "id": 240,
+    "stance": "unclear",
+    "tone": "neutral",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Asks about hotels, insufficient context for stance.",
+    "reason": "Too vague to determine stance or target."
+  },
+  {
+    "id": 241,
+    "stance": "unclear",
+    "tone": "neutral",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Mentions 'Deccan serai', unclear relevance to KTR.",
+    "reason": "Hotel name only, insufficient context for stance."
+  },
+  {
+    "id": 242,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Author urges Congress to defeat KTR in Sircilla as they did KCR in Gajwel.",
+    "reason": "Calls for Congress to destroy KTR's stronghold, expressing opposition."
+  },
+  {
+    "id": 243,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Questions KTR's wealth after Madhu Yashki claims to have helped with KTR's US visa.",
+    "reason": "Raises suspicion about KTR's financial growth, implying wrongdoing."
+  },
+  {
+    "id": 244,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Discusses political reactions to an aeroplane hijack, praises BJP.",
+    "reason": "No mention or relevance to KTR or Telangana politics."
+  },
+  {
+    "id": 245,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Party leadership",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Mentions KTR and Jagan as nationalist parties, unclear context.",
+    "reason": "Reference to KTR is ambiguous, lacks clear stance."
+  },
+  {
+    "id": 246,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Party leadership",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports KTR's statement that BRS will emulate DMK for longevity.",
+    "reason": "Straightforward reporting of KTR's statement, no author stance."
+  },
+  {
+    "id": 247,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Compares different leaders' padayatras, praises Mallanna for unique approach.",
+    "reason": "No stance toward KTR; focus is on other leaders."
+  },
+  {
+    "id": 248,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Defends KTR, saying his wealth is from long political career and prior assets.",
+    "reason": "Counters allegations, supports KTR's integrity regarding assets."
+  },
+  {
+    "id": 249,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Welfare and public requests",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Complains about liquor shops, says things were better under KCR.",
+    "reason": "Mentions KTR but expresses no stance toward him."
+  },
+  {
+    "id": 250,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Public events and festivals",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Remarks on BRS KTR's rallies, says public turnout days are over.",
+    "reason": "Describes event turnout, no support or criticism of KTR."
+  },
+  {
+    "id": 251,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports Mahesh Kumar Goud's claim that KTR's assets increased with each election.",
+    "reason": "Quotes Mahesh Kumar Goud's asset-growth accusation without separate author commentary."
+  },
+  {
+    "id": 252,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Personal praise and criticism",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Mentions KTR's high-level Asia section role, says it's normal to have up to 10 (unclear what).",
+    "reason": "Mentions KTR's position, unclear stance or subject."
+  },
+  {
+    "id": 253,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Says KTR's professional profile is confusing and inconsistent across sources.",
+    "reason": "Describes confusion, but no clear stance toward KTR."
+  },
+  {
+    "id": 254,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Personal praise and criticism",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Calls KTR the only sensible leader among current ones, praises his qualities.",
+    "reason": "Expresses clear personal praise for KTR."
+  },
+  {
+    "id": 255,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Accuses BRS and KTR of plotting against Revanth Reddy instead of working.",
+    "reason": "Mocks KTR for alleged scheming, criticizes lack of real work."
+  },
+  {
+    "id": 256,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Alleges BRS ecosystem orchestrated questions for media clips, questions KTR's desperation.",
+    "reason": "Accuses KTR of manufacturing relevance, negative stance."
+  },
+  {
+    "id": 257,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Accuses KTR and family of amassing wealth while neglecting Sircilla's weavers, demands asset disclosure.",
+    "reason": "Directly attacks KTR for alleged corruption and neglect."
+  },
+  {
+    "id": 258,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Discusses naming schemes in fictional characters, mentions ktr-chan as leaves.",
+    "reason": "No connection to politician KTR; unrelated content."
+  },
+  {
+    "id": 259,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mocks KTR, implying he will be defeated in Sircilla meeting.",
+    "reason": "Sarcastic remark targeting KTR, negative stance."
+  },
+  {
+    "id": 260,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "KTR invites questions for an online #AskKTR session.",
+    "reason": "KTR's own neutral engagement post, no self-praise or criticism."
+  },
+  {
+    "id": 261,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Governance and development",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Harish Rao credits KTR for Sircilla's development, urges Revanth to learn from him.",
+    "reason": "Attributes the praise to Harish Rao; no separate author judgment."
+  },
+  {
+    "id": 262,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Claims huge turnout at Revanth's rally in KTR's area will trouble KTR.",
+    "reason": "Mocks KTR, suggests his dominance is threatened."
+  },
+  {
+    "id": 263,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Blames BRS loss on KTR's corruption, says people know about their looting.",
+    "reason": "Directly accuses KTR of corruption, negative stance."
+  },
+  {
+    "id": 264,
+    "stance": "unclear",
+    "tone": "mixed",
+    "topic": "Personal praise and criticism",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Mocks KTR's pink shirt with laughing emojis.",
+    "reason": "Text mocks KTR's appearance but intent (friendly or critical) unclear without more context."
+  },
+  {
+    "id": 265,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "KTR calls rival a pet of Chandrababu, not a tiger.",
+    "reason": "Reports KTR's attack on rival; author stance toward KTR not expressed."
+  },
+  {
+    "id": 266,
+    "stance": "unclear",
+    "tone": "mixed",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Mentions KTR possibly jailing someone for forgetting his name.",
+    "reason": "Sarcastic or joking intent unclear; stance toward KTR ambiguous."
+  },
+  {
+    "id": 267,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Claims Revanth Reddy will lose despite his efforts; tags KTR.",
+    "reason": "Focuses on rival's defeat, not expressing stance toward KTR."
+  },
+  {
+    "id": 268,
+    "stance": "unclear",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Questions if 50,000 crores were looted in 3 years.",
+    "reason": "Unnamed target of three-year looting allegation; KTR connection is not explicit."
+  },
+  {
+    "id": 269,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Party leadership",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Says KTR is not trustworthy, urges BRS workers to trust themselves.",
+    "reason": "Directly criticizes KTR's leadership and trustworthiness."
+  },
+  {
+    "id": 270,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Personal praise and criticism",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Praises KTR as 'The Man' with fire emojis.",
+    "reason": "Expresses admiration for KTR."
+  },
+  {
+    "id": 271,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Election strategy",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Asks if Revanth will win again, mentions KTR and public talk.",
+    "reason": "No stance toward KTR; seeks public reaction."
+  },
+  {
+    "id": 272,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports ACB seeks to impound KTR's passport in Formula E case.",
+    "reason": "Straightforward news report; no author stance toward KTR."
+  },
+  {
+    "id": 273,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Other or unclear",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "KTR wishes everyone a happy new year with positive vibes.",
+    "reason": "KTR authored; neutral stance toward himself."
+  },
+  {
+    "id": 274,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Other or unclear",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "KTR shares his photography skills for World Photography Day.",
+    "reason": "KTR authored; neutral stance toward himself."
+  },
+  {
+    "id": 275,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Accuses Kalvakuntla family, including KTR, of massive corruption.",
+    "reason": "Directly alleges corruption by KTR."
+  },
+  {
+    "id": 276,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Public events and festivals",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Comments on crowd size at a rally, hopes KCR is watching.",
+    "reason": "Mentions KTR but no stance toward him."
+  },
+  {
+    "id": 277,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Personal praise and criticism",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Expresses affection for KCR and KTR with heart emojis.",
+    "reason": "Shows positive sentiment toward KTR."
+  },
+  {
+    "id": 278,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Welfare and public requests",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "KTR promises to help with land documents for a local meeting.",
+    "reason": "Reports a land-title assistance promise attributed to KTR; no independent author praise."
+  },
+  {
+    "id": 279,
+    "stance": "supportive",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Defends KTR against allegations, questions why Revanth avoids answering about his own scandals.",
+    "reason": "Defends KTR, criticizes rival's lack of transparency."
+  },
+  {
+    "id": 280,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Welfare and public requests",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Claims a Kodangal family approached KTR over a mother stranded in Muscat; describes his instructions and promise to arrange her return.",
+    "reason": "Favorable contrast with the CM and praise of KTR's response; return is promised, not established."
+  },
+  {
+    "id": 281,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Discusses religious figures and gold, no KTR relevance.",
+    "reason": "No meaningful connection to KTR."
+  },
+  {
+    "id": 282,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Personal praise and criticism",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Claims Telangana critics would react more strongly if KCR or KTR made the same statement.",
+    "reason": "Criticizes a perceived double standard in reactions, not KTR himself."
+  },
+  {
+    "id": 283,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports Revanth Reddy's accusation that KTR and others looted crores.",
+    "reason": "Reports rival's accusation; author stance toward KTR not expressed."
+  },
+  {
+    "id": 284,
+    "stance": "unclear",
+    "tone": "mixed",
+    "topic": "Personal praise and criticism",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Laughs at KTR with laughing emojis.",
+    "reason": "Intent (mockery or friendly) unclear without more context."
+  },
+  {
+    "id": 285,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Personal praise and criticism",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Says KTR will handle Siricilla issues strongly.",
+    "reason": "Expresses confidence in KTR's abilities."
+  },
+  {
+    "id": 286,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "official_statement",
+    "clarity": "context_needed",
+    "summary": "KTRBRS posts about updating profile picture.",
+    "reason": "No stance or opinion about KTR; just a profile update."
+  },
+  {
+    "id": 287,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Election strategy",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "KTR registered as voter for Graduate MLC elections; urges eligible people to register.",
+    "reason": "Reports KTR's action, no support or criticism."
+  },
+  {
+    "id": 288,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Claims Revanth Reddy fears BRS MLAs will question him in Assembly.",
+    "reason": "Reports rivalry, no author stance toward KTR."
+  },
+  {
+    "id": 289,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Welfare and public requests",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "KTR recalls launch of Kalyana Lakshmi scheme to support poor families at daughters' marriages.",
+    "reason": "Reports KTR's statement, no author stance."
+  },
+  {
+    "id": 290,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "KTR mocks UK PM resignation, criticizes Indian PM's economic record.",
+    "reason": "KTR criticizes rivals, not self-praise; neutral toward himself."
+  },
+  {
+    "id": 291,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Defends KTR's business background, questions why only he is targeted for business activities.",
+    "reason": "Defends KTR against business allegations."
+  },
+  {
+    "id": 292,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Discusses electric cars and border policies, no mention of KTR.",
+    "reason": "No meaningful connection to KTR politician."
+  },
+  {
+    "id": 293,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Comments on China and digital control, unrelated to KTR.",
+    "reason": "No relevant connection to KTR politician."
+  },
+  {
+    "id": 294,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Mentions KTR acronym in unclear context, discusses social classes and China.",
+    "reason": "KTR acronym not clearly referring to politician."
+  },
+  {
+    "id": 295,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Election strategy",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Mentions KTR and Revanth Reddy's election majorities in 2023.",
+    "reason": "States election results, no stance toward KTR."
+  },
+  {
+    "id": 296,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Government whip claims KTR's assets and benami dealings will be exposed in part 2.",
+    "reason": "Reports accusation, author stance neutral."
+  },
+  {
+    "id": 297,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Personal praise and criticism",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Says KTR already stated something, criticizes another for acting like it's new.",
+    "reason": "Criticizes another person, not KTR; neutral toward KTR."
+  },
+  {
+    "id": 298,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Sends a good morning greeting, no KTR relevance.",
+    "reason": "No connection to KTR politician."
+  },
+  {
+    "id": 299,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Sends a good morning greeting in Japanese, mentions KTR-san.",
+    "reason": "KTR refers to a person, not the politician."
+  },
+  {
+    "id": 300,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Sends a good morning greeting to KTR-san in Japanese.",
+    "reason": "KTR refers to a person, not the politician."
+  },
+  {
+    "id": 301,
+    "stance": "unclear",
+    "tone": "unclear",
+    "topic": "Other or unclear",
+    "format": "unclear",
+    "clarity": "context_needed",
+    "summary": "Post contains only emojis, unclear meaning.",
+    "reason": "No intelligible stance or topic without context."
+  },
+  {
+    "id": 302,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Discusses North Face and tech gear compatibility.",
+    "reason": "No connection to KTR politician."
+  },
+  {
+    "id": 303,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Personal praise and criticism",
+    "format": "request",
+    "clarity": "clear",
+    "summary": "Thanks KTR for help or support.",
+    "reason": "Expresses gratitude, supportive toward KTR."
+  },
+  {
+    "id": 304,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Party leadership",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Blames KCR's decision to give MLAs power for election loss; mentions KTR.",
+    "reason": "Criticizes KCR, not KTR; neutral toward KTR."
+  },
+  {
+    "id": 305,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Criticizes Telangana Assembly speaker and Revanth for luxury, no mention of KTR.",
+    "reason": "No meaningful connection to KTR politician."
+  },
+  {
+    "id": 306,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Accuses KTR of looting thousands of crores, criticizes focus on speaker's spending.",
+    "reason": "Directly accuses KTR of corruption."
+  },
+  {
+    "id": 307,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "KTR rebukes Modi for false claims on electrification, asserts respect for diversity.",
+    "reason": "KTR criticizes rival, not self-praise; neutral toward himself."
+  },
+  {
+    "id": 308,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Other or unclear",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "KTR expresses respect for pilot's bravery and wishes recovery.",
+    "reason": "KTRBRS post, not about politics or himself, neutral stance."
+  },
+  {
+    "id": 309,
+    "stance": "supportive",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Says KTR and other BRS leaders responded to allegations, but asks why the CM has not answered Krishank's claims.",
+    "reason": "Contrasts KTR responding to allegations with the CM not responding; defense favors KTR."
+  },
+  {
+    "id": 310,
+    "stance": "neutral",
+    "tone": "mixed",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "KTR comments that something will not age well, missed the mark.",
+    "reason": "No clear self-praise or criticism; context missing."
+  },
+  {
+    "id": 311,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Personal praise and criticism",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mocks KTR for giving explanations, calls him crazy.",
+    "reason": "Direct ridicule of KTR, critical stance."
+  },
+  {
+    "id": 312,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Accuses KTR and BRS of manufacturing relevance and shady tactics.",
+    "reason": "Author attacks KTR's and BRS's political conduct."
+  },
+  {
+    "id": 313,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Confused RP Singh with a cricketer, not about KTR.",
+    "reason": "No meaningful connection to KTR."
+  },
+  {
+    "id": 314,
+    "stance": "unclear",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Asks if something is KTR's hotel, unclear context.",
+    "reason": "Insufficient information to determine stance."
+  },
+  {
+    "id": 315,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Party leadership",
+    "format": "reported_statement",
+    "clarity": "context_needed",
+    "summary": "Reports KTR's key comments on BRS defeat.",
+    "reason": "Reported statement, no author stance."
+  },
+  {
+    "id": 316,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mocks a southern leader, implied to be KTR, for arrogance and frustration after Congress rally.",
+    "reason": "Author ridicules KTR's political situation."
+  },
+  {
+    "id": 317,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Personal praise and criticism",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Calls KTR a dynamic leader, insults rival CM.",
+    "reason": "Direct praise for KTR, supportive stance."
+  },
+  {
+    "id": 318,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "KTR asks followers to guess a location or thing.",
+    "reason": "No stance toward KTR, context missing."
+  },
+  {
+    "id": 319,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "KTR shares fond memories of meeting Ratan Tata.",
+    "reason": "Reminiscence, not about KTR himself."
+  },
+  {
+    "id": 320,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "KTR posts smiling and praying emojis.",
+    "reason": "No clear stance or topic, context missing."
+  },
+  {
+    "id": 321,
+    "stance": "supportive",
+    "tone": "negative",
+    "topic": "Governance and development",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Calls TV criticism of KCR and KTR false, and says callers raised water, electricity and urea-supply problems instead.",
+    "reason": "Calls criticism of KCR/KTR fake and points to current supply grievances."
+  },
+  {
+    "id": 322,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Welfare and public requests",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Thanks KTR for supporting a worker's family and ensuring children's education.",
+    "reason": "Direct praise for KTR's help, supportive."
+  },
+  {
+    "id": 323,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Governance and development",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Questions KTR's absence and criticizes poor conditions in Sircilla.",
+    "reason": "Direct criticism of KTR's local governance."
+  },
+  {
+    "id": 324,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "KTR challenges for inquiry into assets, says ready for any punishment if guilty.",
+    "reason": "Reported KTR statement, neutral author stance."
+  },
+  {
+    "id": 325,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Other or unclear",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "KTR wishes AP Deputy CM Pawan Kalyan a speedy recovery.",
+    "reason": "Not about KTR himself, neutral stance."
+  },
+  {
+    "id": 326,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Alleges KTR bought hotel for actress Rakul Preet Singh, tags looting hashtags.",
+    "reason": "Accusation against KTR, critical stance."
+  },
+  {
+    "id": 327,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Summarizes KTR's challenge for transparent inquiry into assets and calls for accountability.",
+    "reason": "Reported KTR statement, neutral author stance."
+  },
+  {
+    "id": 328,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Governance and development",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Claims KTR developed Sircilla and should be repeatedly elected.",
+    "reason": "Explicitly praises development and calls for re-electing KTR; not a historical recollection."
+  },
+  {
+    "id": 329,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Public events and festivals",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports Gandhi Jayanti floral tribute event at PJR stadium.",
+    "reason": "Event report, no stance toward KTR."
+  },
+  {
+    "id": 330,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Personal praise and criticism",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Author jokes that any project in KTR's land is bound to succeed.",
+    "reason": "Lighthearted praise for KTR, implying his association brings success."
+  },
+  {
+    "id": 331,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "BRS MLC claims ACB's passport confiscation of KTR is a conspiracy but cannot silence him.",
+    "reason": "Reports politician's statement; author stance not explicit, negative tone due to allegation."
+  },
+  {
+    "id": 332,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Governance and development",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Author alleges no real development in Sircilla under KTR; bus stand conditions criticized.",
+    "reason": "Direct criticism of KTR's governance in his constituency."
+  },
+  {
+    "id": 333,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Author demands KTR disclose family assets and benami accounts, echoing Revanth's challenge.",
+    "reason": "Challenges KTR on asset transparency, critical stance."
+  },
+  {
+    "id": 334,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Author mocks KTR, alleging he has a paid social media team enjoying in Dubai.",
+    "reason": "Sarcastic attack on KTR's use of social media supporters."
+  },
+  {
+    "id": 335,
+    "stance": "neutral",
+    "tone": "neutral",
+    "topic": "Rivalry and political attacks",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Post discusses Revanth Reddy's warning and its possible impact on KTR's political stance.",
+    "reason": "Analytical, not expressing author stance toward KTR."
+  },
+  {
+    "id": 336,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Public events and festivals",
+    "format": "official_statement",
+    "clarity": "clear",
+    "summary": "KTR describes meeting with Korean delegation, praises Korea's progress, and discusses Telangana-Korea collaboration.",
+    "reason": "KTR's own post, positive tone, neutral stance toward himself."
+  },
+  {
+    "id": 337,
+    "stance": "unclear",
+    "tone": "unclear",
+    "topic": "Other or unclear",
+    "format": "unclear",
+    "clarity": "context_needed",
+    "summary": "Mentions counter to KTR by Fisheries Chairman Mettu Sai Kumar; details missing.",
+    "reason": "Insufficient information to determine stance or topic specifics."
+  },
+  {
+    "id": 338,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Governance and development",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Author praises KTR for transforming Sircilla, urging Revanth to ask locals about improvements.",
+    "reason": "Explicit praise for KTR's development work in Sircilla."
+  },
+  {
+    "id": 339,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Party leadership",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Author mocks KTR's leadership, claiming he rendered his party ineffective.",
+    "reason": "Attributes party-leadership mockery to Ram Mohan; no independent author statement."
+  },
+  {
+    "id": 340,
+    "stance": "supportive",
+    "tone": "positive",
+    "topic": "Governance and development",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Author credits KTR for IT sector impact and corridor development in Telangana.",
+    "reason": "Attributes positive IT developments to KTR's influence."
+  },
+  {
+    "id": 341,
+    "stance": "supportive",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Author defends KTR's record as MLA and minister, mocks rival's failures.",
+    "reason": "Supports KTR by contrasting with rival's shortcomings."
+  },
+  {
+    "id": 342,
+    "stance": "unclear",
+    "tone": "unclear",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "context_needed",
+    "summary": "Mentions fear and questions its origin; lacks context for KTR relevance.",
+    "reason": "Insufficient context to determine stance or topic."
+  },
+  {
+    "id": 343,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Author wonders why they were suddenly yelled at; no KTR relevance.",
+    "reason": "No connection to KTR or Telangana politics."
+  },
+  {
+    "id": 344,
+    "stance": "critical",
+    "tone": "negative",
+    "topic": "Rivalry and political attacks",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Author claims KTR is forced to admit truths due to Revanth's pressure.",
+    "reason": "Frames KTR as exposed by rival, critical stance."
+  },
+  {
+    "id": 345,
+    "stance": "neutral",
+    "tone": "positive",
+    "topic": "Rivalry and political attacks",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Author praises Revanth Reddy for rallying in KTR's stronghold, implying KTR's weakness.",
+    "reason": "Praises Revanth's rally and describes its opposition impact without a direct KTR appraisal."
+  },
+  {
+    "id": 346,
+    "stance": "neutral",
+    "tone": "negative",
+    "topic": "Assets and allegations",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Reports Revanth Reddy's criticism of KCR and KTR's family's wealth and influence in Sircilla.",
+    "reason": "News report of rival's attack; author stance not explicit."
+  },
+  {
+    "id": 347,
+    "stance": "unclear",
+    "tone": "unclear",
+    "topic": "Other or unclear",
+    "format": "unclear",
+    "clarity": "context_needed",
+    "summary": "No text provided; unable to classify.",
+    "reason": "Missing content prevents classification."
+  },
+  {
+    "id": 348,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mentions a Hyderabad meet-up; no KTR relevance.",
+    "reason": "No connection to KTR or Telangana politics."
+  },
+  {
+    "id": 349,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Describes a talk on green harnesses; no KTR relevance.",
+    "reason": "No connection to KTR or Telangana politics."
+  },
+  {
+    "id": 350,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "opinion",
+    "clarity": "clear",
+    "summary": "Mentions Hyderabad event on tech topics; no KTR relevance.",
+    "reason": "No connection to KTR or Telangana politics."
+  },
+  {
+    "id": 351,
+    "stance": "unrelated",
+    "tone": "neutral",
+    "topic": "Other or unclear",
+    "format": "reported_statement",
+    "clarity": "clear",
+    "summary": "Mentions talk on benchmarks at Hyderabad tech event; no KTR relevance.",
+    "reason": "No connection to KTR or Telangana politics."
+  }
+]

@@ -1,0 +1,181 @@
+{
+  "person": {
+    "name": "Test Person",
+    "short": "Test",
+    "handle": "@test",
+    "party": "BJP",
+    "role": "Test role"
+  },
+  "week": {
+    "start": "2026-06-08",
+    "end": "2026-06-14",
+    "label": "8-14 June 2026"
+  },
+  "branding": {
+    "accent": "#F47216",
+    "accent2": "#138808",
+    "dark": "#1A1206",
+    "ink": "#1A1A1A"
+  },
+  "x_data": {
+    "official_posts": 11,
+    "sample_size": 200,
+    "sentiment": {
+      "positive": 55,
+      "negative": 85,
+      "neutral": 60
+    },
+    "daily": [
+      {
+        "date": "Jun 8",
+        "pos": 10,
+        "neg": 15,
+        "neu": 12
+      },
+      {
+        "date": "Jun 9",
+        "pos": 8,
+        "neg": 20,
+        "neu": 9
+      },
+      {
+        "date": "Jun 10",
+        "pos": 12,
+        "neg": 10,
+        "neu": 8
+      },
+      {
+        "date": "Jun 11",
+        "pos": 9,
+        "neg": 14,
+        "neu": 10
+      },
+      {
+        "date": "Jun 12",
+        "pos": 6,
+        "neg": 12,
+        "neu": 7
+      },
+      {
+        "date": "Jun 13",
+        "pos": 5,
+        "neg": 8,
+        "neu": 8
+      },
+      {
+        "date": "Jun 14",
+        "pos": 5,
+        "neg": 6,
+        "neu": 6
+      }
+    ],
+    "issues": [
+      {
+        "label": "Power cuts",
+        "count": 18
+      },
+      {
+        "label": "Law & order",
+        "count": 12
+      },
+      {
+        "label": "Corruption jibes",
+        "count": 10
+      },
+      {
+        "label": "Broken promises",
+        "count": 8
+      },
+      {
+        "label": "Traffic",
+        "count": 5
+      }
+    ],
+    "issue_notes": [
+      "Power-cut complaints peaked midweek",
+      "Opposition amplified law-and-order posts"
+    ],
+    "top_posts": [
+      {
+        "text": "Sample top post about governance and development in the state.",
+        "views": 103300
+      },
+      {
+        "text": "Second post on infrastructure.",
+        "views": 54000
+      }
+    ]
+  },
+  "news_data": {
+    "article_count": 22,
+    "sentiment": {
+      "positive": 12,
+      "negative": 4,
+      "neutral": 6
+    },
+    "topics": [
+      {
+        "label": "Politics",
+        "count": 10
+      },
+      {
+        "label": "Governance",
+        "count": 7
+      },
+      {
+        "label": "Infrastructure",
+        "count": 5
+      },
+      {
+        "label": "Welfare",
+        "count": 4
+      }
+    ],
+    "topic_notes": [
+      "Politics dominated coverage",
+      "Governance angle largely positive"
+    ],
+    "publications": [
+      {
+        "label": "The Hindu",
+        "count": 5
+      },
+      {
+        "label": "Sakshi",
+        "count": 4
+      },
+      {
+        "label": "Eenadu",
+        "count": 4
+      },
+      {
+        "label": "TOI",
+        "count": 3
+      }
+    ],
+    "languages": {
+      "Telugu": 13,
+      "English": 9
+    },
+    "notes": [
+      "Coverage skewed positive",
+      "Telugu print led volume"
+    ]
+  },
+  "stories": [
+    {
+      "title": "Story one",
+      "detail": "Detail of the first defining story."
+    },
+    {
+      "title": "Story two",
+      "detail": "Detail of the second story."
+    }
+  ],
+  "insights": [
+    "Insight one about the week.",
+    "Insight two.",
+    "Insight three.",
+    "Insight four."
+  ]
+}

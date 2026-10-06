@@ -1,0 +1,3 @@
+file:///Users/prudhvikrovvidi/Documents/Codex/2026-10-05/users-prudhvikrovvidi-desktop-github-personal-ktr/outputs/ktr-report.html
+  title: KTR | X Conversation Report | October 5, 2026   lang: en
+  no findings

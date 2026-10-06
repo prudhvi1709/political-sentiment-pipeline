@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Bandi Sanjay Kumar — Weekly Sentiment</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<style>
+  :root { --accent:#F47216; --accent2:#138808; --dark:#1A1206; }
+  * { box-sizing:border-box; margin:0; padding:0; }
+  body { font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+         color:#1a1a1a; background:#f4f5f7; }
+  .hero { background:var(--dark); color:#fff; padding:42px 48px;
+          border-bottom:6px solid var(--accent); }
+  .hero .kicker { color:var(--accent); font-weight:700; letter-spacing:1px;
+          font-size:13px; }
+  .hero h1 { font-size:40px; margin:6px 0; }
+  .hero .role { color:#cfcfcf; font-size:16px; }
+  .hero .week { color:#9aa0a6; margin-top:10px; font-size:14px; }
+  .wrap { max-width:1180px; margin:0 auto; padding:28px 24px 60px; }
+  .stats { display:grid; grid-template-columns:repeat(4,1fr); gap:16px;
+          margin-bottom:26px; }
+  .stat { background:#fff; border-radius:12px; padding:20px;
+          border-left:6px solid var(--accent); box-shadow:0 1px 4px rgba(0,0,0,.06); }
+  .stat .v { font-size:32px; font-weight:800; color:var(--accent); }
+  .stat .l { color:#555; font-size:13px; margin-top:4px; }
+  .grid { display:grid; grid-template-columns:1fr 1fr; gap:18px; }
+  .card { background:#fff; border-radius:12px; padding:20px;
+          box-shadow:0 1px 4px rgba(0,0,0,.06); margin-bottom:18px; }
+  .card h3 { font-size:15px; margin-bottom:14px; color:#222;
+          border-bottom:2px solid #eee; padding-bottom:8px; }
+  .card.full { grid-column:1/-1; }
+  canvas { max-height:300px; }
+  .story { border-left:4px solid var(--accent2); padding:8px 14px;
+          margin-bottom:12px; background:#fafafa; }
+  .story h4 { color:var(--accent); font-size:14px; }
+  .story p { color:#444; font-size:13px; margin-top:3px; }
+  ul.ins { padding-left:20px; } ul.ins li { margin-bottom:8px; color:#333; }
+  .post { display:flex; justify-content:space-between; gap:12px;
+          border-bottom:1px solid #eee; padding:10px 0; }
+  .post span { color:var(--accent); font-weight:700; white-space:nowrap; }
+</style></head><body>
+<div class="hero">
+  <div class="kicker">BJP &nbsp;|&nbsp; WEEKLY MEDIA & SOCIAL SENTIMENT</div>
+  <h1>Bandi Sanjay Kumar</h1>
+  <div class="role">Union Minister of State for Home Affairs | MP, Karimnagar</div>
+  <div class="week">Week of 5-11 June 2026</div>
+</div>
+<div class="wrap">
+  <div class="stats">
+    <div class="stat"><div class="v">38</div><div class="l">X items sampled</div></div>
+    <div class="stat"><div class="v">57%</div><div class="l">Negative on X</div></div>
+    <div class="stat"><div class="v">22</div><div class="l">News articles</div></div>
+    <div class="stat"><div class="v">36%</div><div class="l">Positive in press</div></div>
+  </div>
+  <div class="grid">
+    <div class="card"><h3>X sentiment</h3><canvas id="xSent"></canvas></div>
+    <div class="card"><h3>News sentiment</h3><canvas id="nSent"></canvas></div>
+    <div class="card full"><h3>Daily X volume by sentiment</h3><canvas id="xDaily"></canvas></div>
+    <div class="card"><h3>Top negative issues (X)</h3><canvas id="xIssues"></canvas></div>
+    <div class="card"><h3>News topics</h3><canvas id="nTopics"></canvas></div>
+    <div class="card"><h3>Publications</h3><canvas id="nPubs"></canvas></div>
+    <div class="card"><h3>Coverage language</h3><canvas id="nLangs"></canvas></div>
+    <div class="card full"><h3>Top posts this week</h3><div class="post"><p>Next Sarvapindi calling - PM Modi enjoying Jhalmuri with NDA leaders at the alliance meeting, Bharat Mandapam, Delhi.</p><span>11,000 views</span></div><div class="post"><p>12 Years of Seva: Mana Badi - Mana Badhyatha. Not every act of nation-building needs a stage; sometimes it begins with a broom and a classroom.</p><span>4,000 views</span></div><div class="post"><p>Future generations will read about the greatness of this period of India in textbooks. (12 Years of Seva)</p><span>3,600 views</span></div><div class="post"><p>Rythu Sammelanam on Natural Farming at the Krishi Vigyan Kendra, Jammikunta, marking 12 Years of Seva.</p><span>2,883 views</span></div><div class="post"><p>Nadu (Nehru era) corruption and anarchy ruled; Nedu (Modi era) welfare reaches every poor household. This is Naya Bharat.</p><span>2,178 views</span></div></div>
+    <div class="card"><h3>Defining stories</h3><div class="story"><h4>Son's POCSO case dominates</h4><p>Bandi Bhageerath Sai arrested; BRS's RS Praveen Kumar demands why the minister was not questioned, driving a heavy negative cluster online.</p></div><div class="story"><h4>12 Years of Modi Seva outreach</h4><p>Bandi anchors the BJP anniversary blitz: Rythu Sammelanam on natural farming in Jammikunta and the Swachh Pathashala school-cleaning drive.</p></div><div class="story"><h4>Rare cross-party credit</h4><p>He publicly thanks CM Revanth Reddy for helping unlock central funds for rural roads in his constituency.</p></div><div class="story"><h4>Pothole convoy embarrassment</h4><p>His vehicle stuck on the Karimnagar-Sircilla road becomes a mocking talking point a day before he lays a road-widening foundation stone.</p></div><div class="story"><h4>Communal / political sparring</h4><p>Accuses the Congress of backing the AIMIM protest against the Waqf Act, keeping the Hindutva plank active.</p></div></div>
+    <div class="card"><h3>Key insights</h3><ul class="ins"><li>The week's online conversation skewed strongly negative (about 58% of the mention sample), driven almost entirely by the POCSO case involving his son, not by policy.</li><li>His own handle stayed rigorously on-message - 12 Years of Modi Seva, natural farming and the school-cleaning campaign - with the Jhalmuri-with-NDA post his highest-reach item (about 11K views).</li><li>Press coverage was more balanced than social: governance and outreach stories ran positive, while the POCSO thread gave the opposition a sustained negative hook.</li><li>Off-handle name-variant conversation was markedly harsher than handle-tagged mentions, mirroring the KTR finding.</li><li>A rare bipartisan note - crediting Revanth Reddy for central funds - briefly cut through the negativity.</li></ul></div>
+  </div>
+</div>
+<script>
+const D = {"x_sent": {"positive": 8, "negative": 22, "neutral": 8}, "x_daily": [{"date": "Jun 5", "pos": 0, "neg": 1, "neu": 1}, {"date": "Jun 6", "pos": 1, "neg": 1, "neu": 1}, {"date": "Jun 7", "pos": 1, "neg": 2, "neu": 1}, {"date": "Jun 8", "pos": 1, "neg": 3, "neu": 1}, {"date": "Jun 9", "pos": 1, "neg": 4, "neu": 1}, {"date": "Jun 10", "pos": 2, "neg": 5, "neu": 1}, {"date": "Jun 11", "pos": 2, "neg": 6, "neu": 2}], "x_issues": [{"label": "Son's POCSO case / shielding", "count": 12}, {"label": "Absence jibes (phone off)", "count": 4}, {"label": "Sanatani / hypocrisy mockery", "count": 3}, {"label": "Pothole convoy embarrassment", "count": 2}, {"label": "Farming credibility jibe", "count": 1}], "n_sent": {"positive": 8, "negative": 7, "neutral": 7}, "n_topics": [{"label": "Politics (POCSO, Waqf, attacks)", "count": 8}, {"label": "Governance (Swachh Pathashala, funds)", "count": 7}, {"label": "Agriculture / Natural Farming", "count": 4}, {"label": "Infrastructure (roads)", "count": 3}], "n_pubs": [{"label": "Siasat", "count": 4}, {"label": "The Hans India", "count": 3}, {"label": "Deccan Herald", "count": 3}, {"label": "Telangana Today", "count": 3}, {"label": "Daily Pioneer", "count": 2}, {"label": "Outlook", "count": 2}, {"label": "NewsOnAir", "count": 2}], "n_langs": {"English": 13, "Telugu": 9}};
+const POS='#2E9E5B', NEG='#D7263D', NEU='#9AA0A6', AC='#F47216', AC2='#138808';
+const donut=(id,s)=>new Chart(document.getElementById(id),{type:'doughnut',
+  data:{labels:['Positive','Negative','Neutral'],datasets:[{data:[s.positive,s.negative,s.neutral],backgroundColor:[POS,NEG,NEU]}]},
+  options:{plugins:{legend:{position:'bottom'}}}});
+donut('xSent',D.x_sent); donut('nSent',D.n_sent);
+new Chart(document.getElementById('xDaily'),{type:'bar',
+  data:{labels:D.x_daily.map(d=>d.date),datasets:[
+    {label:'Positive',data:D.x_daily.map(d=>d.pos||0),backgroundColor:POS},
+    {label:'Neutral',data:D.x_daily.map(d=>d.neu||0),backgroundColor:NEU},
+    {label:'Negative',data:D.x_daily.map(d=>d.neg||0),backgroundColor:NEG}]},
+  options:{responsive:true,scales:{x:{stacked:true},y:{stacked:true}}}});
+const hbar=(id,arr,color)=>{arr=[...arr].sort((a,b)=>a.count-b.count);
+  new Chart(document.getElementById(id),{type:'bar',
+  data:{labels:arr.map(i=>i.label),datasets:[{data:arr.map(i=>i.count),backgroundColor:color}]},
+  options:{indexAxis:'y',plugins:{legend:{display:false}}}});};
+hbar('xIssues',D.x_issues,NEG); hbar('nTopics',D.n_topics,AC); hbar('nPubs',D.n_pubs,AC2);
+new Chart(document.getElementById('nLangs'),{type:'doughnut',
+  data:{labels:Object.keys(D.n_langs),datasets:[{data:Object.values(D.n_langs),backgroundColor:[AC,AC2,NEU,'#C7C7C7']}]},
+  options:{plugins:{legend:{position:'bottom'}}}});
+</script></body></html>

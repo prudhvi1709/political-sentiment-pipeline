@@ -1,0 +1,9 @@
+{
+  "data_recomputed": true,
+  "chart_count": 18,
+  "retained_recent": 287,
+  "unrelated": 34,
+  "interaction_checks": "pagination, filters, search empty/reset, sort, URL restoration, invalid state, theme, chart modal mouse/keyboard, Escape, no JS, reduced motion",
+  "errors": [],
+  "html_sha256": "8b1f526c8b4060d75d925f4c001838b1c9758aca556c7625e15d9b29fcff4563"
+}

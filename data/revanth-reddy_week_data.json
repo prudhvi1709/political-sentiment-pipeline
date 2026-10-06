@@ -1,0 +1,105 @@
+{
+  "person": {
+    "name": "A. Revanth Reddy",
+    "handle": "@revanth_anumula",
+    "party": "INC",
+    "role": "Chief Minister of Telangana | Congress (TPCC)"
+  },
+  "week": {"start": "2026-06-16", "end": "2026-07-13", "label": "16 June - 13 July 2026"},
+  "branding": {"accent": "#1F6FB2", "accent2": "#19AAA1", "dark": "#0B1622", "ink": "#1A1A1A"},
+  "x_data": {
+    "official_posts": 18,
+    "sample_size": 310,
+    "sentiment": {"positive": 74, "negative": 147, "neutral": 89},
+    "daily": [],
+    "issues": [
+      {"label": "'Blood for farmers' / 'belt treatment' remark", "count": 16},
+      {"label": "Kaleshwaram water crisis blame", "count": 11},
+      {"label": "Corruption / ACB jibes", "count": 8},
+      {"label": "Civic grievances (ration, water, bus stands)", "count": 6},
+      {"label": "Internal Congress friction (BC leaders)", "count": 5}
+    ],
+    "issue_notes": [
+      "The 'blood for farmers' / 'belt treatment' remark was the single largest negative driver.",
+      "Kaleshwaram water-crisis blame ran through the whole fortnight.",
+      "Corruption / #acb jibes and abusive attacks spiked around the remark.",
+      "Internal Congress friction (BC-leader lathicharge) added to the pressure."
+    ],
+    "top_posts": [
+      {"text": "We are trying our level best to restore the Kaleshwaram Project, guided by NDSA and CWC experts. (statement)", "views": 30000},
+      {"text": "I challenge KCR to attend a special joint session of the Assembly and debate Kaleshwaram. (statement)", "views": 22000},
+      {"text": "BRS leaders are economic terrorists - the Rs 1.5L cr Kaleshwaram project collapsed on their watch. (statement)", "views": 18000},
+      {"text": "National SC Commission chairperson pays a courtesy call on the Chief Minister.", "views": 8000},
+      {"text": "Reviewing monsoon preparedness and civic response with senior officials.", "views": 6000}
+    ]
+  },
+  "news_data": {
+    "article_count": 30,
+    "sentiment": {"positive": 8, "negative": 14, "neutral": 8},
+    "topics": [
+      {"label": "Kaleshwaram / 'blood' remark", "count": 14},
+      {"label": "Governance / restoration", "count": 7},
+      {"label": "Politics / opposition", "count": 5},
+      {"label": "Civic grievances", "count": 4}
+    ],
+    "topic_notes": [
+      "Kaleshwaram and the 'blood for farmers' remark dominated coverage and drove the negativity.",
+      "His counter-framing ('economic terrorists', debate challenge to KCR) was his strongest line.",
+      "Restoration efforts (NDSA/CWC) offered a more governance-led, neutral angle.",
+      "Civic and internal-party friction added a steady negative undercurrent."
+    ],
+    "publications": [
+      {"label": "ANI", "count": 5},
+      {"label": "Andhra Jyothy", "count": 5},
+      {"label": "Telangana Today", "count": 5},
+      {"label": "ThePrint", "count": 4},
+      {"label": "Oneindia", "count": 4},
+      {"label": "NTV Telugu", "count": 4},
+      {"label": "Sakshi", "count": 3}
+    ],
+    "languages": {"English": 17, "Telugu": 13},
+    "notes": [
+      "The worst fortnight of the three: the 'blood for farmers' remark became a self-inflicted crisis.",
+      "Negativity was concentrated and event-driven, unlike June's diffuse civic grumbling.",
+      "His strongest counter was the 'economic terrorist' Kaleshwaram-failure framing.",
+      "Recovery hinges on closing the remark episode and moving to restoration facts."
+    ]
+  },
+  "telugu_press": {
+    "window": "16 Jun - 13 Jul 2026",
+    "eenadu": {
+      "count": 18,
+      "lean": "Neutral / crisis-led",
+      "headlines": [
+        "CM's Kaleshwaram PPT alleges massive irregularities, targets KCR",
+        "Revanth: trying our level best to restore Kaleshwaram",
+        "Row over CM's 'blood for farmers' remark; opposition demands apology",
+        "CM challenges KCR to an Assembly debate on Kaleshwaram"
+      ]
+    },
+    "sakshi": {
+      "count": 14,
+      "lean": "Critical of CM",
+      "headlines": [
+        "'Belt treatment', blood on crops: CM's remark sparks firestorm",
+        "Etala Rajender slams Revanth over Kaleshwaram remarks",
+        "CM calls BRS leaders 'economic terrorists'",
+        "Harish Rao demands apology for CM's harsh language"
+      ]
+    }
+  },
+  "stories": [
+    {"title": "'Blood for farmers' firestorm", "detail": "The 'spill their blood on farms' / 'belt treatment' remark triggers apology demands from BRS, BJP and beyond."},
+    {"title": "Kaleshwaram 'economic terrorists'", "detail": "A PowerPoint blames BRS for the Rs 1.5L cr collapse and Rs 1.02L cr paid to contractors."},
+    {"title": "Debate challenge to KCR", "detail": "Dares KCR to attend a special joint Assembly session and debate Kaleshwaram."},
+    {"title": "Restoration effort", "detail": "Engages NDSA and CWC experts to assess and restore the barrages."},
+    {"title": "Internal & civic friction", "detail": "A BC-leader lathicharge and ration/water complaints add to the week's pressure."}
+  ],
+  "insights": [
+    "The worst fortnight of the three: the 'blood for farmers' / 'belt treatment' remark became a self-inflicted crisis with apology demands from every direction.",
+    "Negativity (about 47% of his sample) was concentrated and event-driven, unlike June's diffuse civic grumbling.",
+    "His strongest counter was the 'economic terrorist' Kaleshwaram-failure framing and the debate challenge to KCR.",
+    "Corruption/#acb jibes and internal Congress friction (BC-leader lathicharge) compounded the damage.",
+    "Recovery hinges on closing the 'blood remark' episode and moving Kaleshwaram to the NDSA/CWC restoration facts."
+  ]
+}

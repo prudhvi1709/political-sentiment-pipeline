@@ -1,0 +1,11 @@
+AGENTS.md
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+output/_qa_artifacts/
+*.tmp
+.~lock.*#

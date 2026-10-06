@@ -1,0 +1,11 @@
+{
+  "source_sha256": "8e74cdfac1f5c05480201ce72445b31b6527c97e56e01dc62362b8c3aafd8b8f",
+  "model": "gpt-4.1",
+  "prompt_sha256": "4c451fd6163bf2d8ed80d2a2fe92efa694da69af1103b326848e1208c58cbbb3",
+  "items": 352,
+  "batch_size": 22,
+  "concurrency": 3,
+  "retry_policy": "2 transport attempts, failed batches retry on resume",
+  "acceptance": "352 schema-valid unique labels; review context-needed and high-engagement items",
+  "max_tokens_per_batch": 9000
+}

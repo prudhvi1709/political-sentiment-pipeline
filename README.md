@@ -22,6 +22,14 @@ and parameterised so the same pipeline runs for any politician.
 - `data/<slug>_week_data.json` - the dataset that drives all outputs
 - `output/<slug>/` - charts, two .pptx decks, index.html
 
+## Reports
+
+- [Political stories dashboard](https://prudhvi1709.github.io/political-sentiment-pipeline/output/)
+- [Anurag Thakur: X and Reddit](https://prudhvi1709.github.io/political-sentiment-pipeline/output/anurag-thakur/2026-10-20/the-verdict.html)
+- [K. T. Rama Rao](https://prudhvi1709.github.io/political-sentiment-pipeline/output/ktr/2026-10-05/ktr-report.html)
+- [Bandi Sanjay](https://prudhvi1709.github.io/political-sentiment-pipeline/output/bandi-sanjay/)
+- [Revanth Reddy](https://prudhvi1709.github.io/political-sentiment-pipeline/output/revanth-reddy/)
+
 ## Dataset schema (`data/<slug>_week_data.json`)
 
 ```
